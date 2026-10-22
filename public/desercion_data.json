@@ -1,0 +1,4031 @@
+[
+  {
+    "ubigeo": "150132",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "primaria": {
+      "desertor": 463,
+      "denominador": 43859,
+      "tasa": 1.06
+    },
+    "secundaria": {
+      "desertor": 581,
+      "denominador": 33499,
+      "tasa": 1.73
+    },
+    "brecha_tasa": 0.67
+  },
+  {
+    "ubigeo": "150135",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "SAN MARTIN DE PORRES",
+    "primaria": {
+      "desertor": 264,
+      "denominador": 28073,
+      "tasa": 0.94
+    },
+    "secundaria": {
+      "desertor": 301,
+      "denominador": 21442,
+      "tasa": 1.4
+    },
+    "brecha_tasa": 0.46
+  },
+  {
+    "ubigeo": "150103",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "ATE",
+    "primaria": {
+      "desertor": 270,
+      "denominador": 26318,
+      "tasa": 1.03
+    },
+    "secundaria": {
+      "desertor": 298,
+      "denominador": 20102,
+      "tasa": 1.48
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "150110",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "COMAS",
+    "primaria": {
+      "desertor": 230,
+      "denominador": 22809,
+      "tasa": 1.01
+    },
+    "secundaria": {
+      "desertor": 252,
+      "denominador": 17422,
+      "tasa": 1.45
+    },
+    "brecha_tasa": 0.44
+  },
+  {
+    "ubigeo": "150142",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "VILLA EL SALVADOR",
+    "primaria": {
+      "desertor": 201,
+      "denominador": 19300,
+      "tasa": 1.04
+    },
+    "secundaria": {
+      "desertor": 230,
+      "denominador": 14742,
+      "tasa": 1.56
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "150143",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "VILLA MARIA DEL TRIUNFO",
+    "primaria": {
+      "desertor": 195,
+      "denominador": 17545,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 221,
+      "denominador": 13402,
+      "tasa": 1.65
+    },
+    "brecha_tasa": 0.54
+  },
+  {
+    "ubigeo": "150101",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "LIMA (CERCADO)",
+    "primaria": {
+      "desertor": 142,
+      "denominador": 15791,
+      "tasa": 0.9
+    },
+    "secundaria": {
+      "desertor": 155,
+      "denominador": 12061,
+      "tasa": 1.29
+    },
+    "brecha_tasa": 0.39
+  },
+  {
+    "ubigeo": "150125",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "PUENTE PIEDRA",
+    "primaria": {
+      "desertor": 182,
+      "denominador": 15791,
+      "tasa": 1.15
+    },
+    "secundaria": {
+      "desertor": 203,
+      "denominador": 12061,
+      "tasa": 1.68
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "150117",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "LOS OLIVOS",
+    "primaria": {
+      "desertor": 114,
+      "denominador": 14036,
+      "tasa": 0.81
+    },
+    "secundaria": {
+      "desertor": 129,
+      "denominador": 10721,
+      "tasa": 1.2
+    },
+    "brecha_tasa": 0.39
+  },
+  {
+    "ubigeo": "150108",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "CARABAYLLO",
+    "primaria": {
+      "desertor": 154,
+      "denominador": 14036,
+      "tasa": 1.1
+    },
+    "secundaria": {
+      "desertor": 170,
+      "denominador": 10721,
+      "tasa": 1.59
+    },
+    "brecha_tasa": 0.49
+  },
+  {
+    "ubigeo": "150140",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "SANTIAGO DE SURCO",
+    "primaria": {
+      "desertor": 74,
+      "denominador": 12282,
+      "tasa": 0.6
+    },
+    "secundaria": {
+      "desertor": 83,
+      "denominador": 9381,
+      "tasa": 0.88
+    },
+    "brecha_tasa": 0.28
+  },
+  {
+    "ubigeo": "150136",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "SAN MIGUEL",
+    "primaria": {
+      "desertor": 49,
+      "denominador": 8773,
+      "tasa": 0.56
+    },
+    "secundaria": {
+      "desertor": 56,
+      "denominador": 6701,
+      "tasa": 0.84
+    },
+    "brecha_tasa": 0.28
+  },
+  {
+    "ubigeo": "150119",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "LURIGANCHO-CHOSICA",
+    "primaria": {
+      "desertor": 94,
+      "denominador": 8773,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 102,
+      "denominador": 6701,
+      "tasa": 1.52
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "150115",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "LA VICTORIA",
+    "primaria": {
+      "desertor": 86,
+      "denominador": 8773,
+      "tasa": 0.98
+    },
+    "secundaria": {
+      "desertor": 91,
+      "denominador": 6701,
+      "tasa": 1.36
+    },
+    "brecha_tasa": 0.38
+  },
+  {
+    "ubigeo": "150122",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "MIRAFLORES",
+    "primaria": {
+      "desertor": 21,
+      "denominador": 5264,
+      "tasa": 0.4
+    },
+    "secundaria": {
+      "desertor": 24,
+      "denominador": 4020,
+      "tasa": 0.6
+    },
+    "brecha_tasa": 0.2
+  },
+  {
+    "ubigeo": "150131",
+    "departamento": "LIMA",
+    "provincia": "LIMA METROPOLITANA",
+    "distrito": "SAN ISIDRO",
+    "primaria": {
+      "desertor": 11,
+      "denominador": 3509,
+      "tasa": 0.31
+    },
+    "secundaria": {
+      "desertor": 13,
+      "denominador": 2680,
+      "tasa": 0.49
+    },
+    "brecha_tasa": 0.18
+  },
+  {
+    "ubigeo": "150501",
+    "departamento": "LIMA",
+    "provincia": "CAÑETE",
+    "distrito": "SAN VICENTE DE CAÑETE",
+    "primaria": {
+      "desertor": 196,
+      "denominador": 15791,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 203,
+      "denominador": 12061,
+      "tasa": 1.68
+    },
+    "brecha_tasa": 0.44
+  },
+  {
+    "ubigeo": "150508",
+    "departamento": "LIMA",
+    "provincia": "CAÑETE",
+    "distrito": "IMPERIAL",
+    "primaria": {
+      "desertor": 157,
+      "denominador": 12282,
+      "tasa": 1.28
+    },
+    "secundaria": {
+      "desertor": 162,
+      "denominador": 9381,
+      "tasa": 1.73
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "150507",
+    "departamento": "LIMA",
+    "provincia": "CAÑETE",
+    "distrito": "CHILCA",
+    "primaria": {
+      "desertor": 96,
+      "denominador": 7018,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 97,
+      "denominador": 5361,
+      "tasa": 1.81
+    },
+    "brecha_tasa": 0.44
+  },
+  {
+    "ubigeo": "150801",
+    "departamento": "LIMA",
+    "provincia": "HUAURA",
+    "distrito": "HUACHO",
+    "primaria": {
+      "desertor": 182,
+      "denominador": 15791,
+      "tasa": 1.15
+    },
+    "secundaria": {
+      "desertor": 188,
+      "denominador": 12061,
+      "tasa": 1.56
+    },
+    "brecha_tasa": 0.41
+  },
+  {
+    "ubigeo": "150806",
+    "departamento": "LIMA",
+    "provincia": "HUAURA",
+    "distrito": "HUALMAY",
+    "primaria": {
+      "desertor": 105,
+      "denominador": 8773,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 107,
+      "denominador": 6701,
+      "tasa": 1.6
+    },
+    "brecha_tasa": 0.4
+  },
+  {
+    "ubigeo": "150601",
+    "departamento": "LIMA",
+    "provincia": "HUARAL",
+    "distrito": "HUARAL",
+    "primaria": {
+      "desertor": 189,
+      "denominador": 15791,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 198,
+      "denominador": 12061,
+      "tasa": 1.64
+    },
+    "brecha_tasa": 0.44
+  },
+  {
+    "ubigeo": "150604",
+    "departamento": "LIMA",
+    "provincia": "HUARAL",
+    "distrito": "CHANCAY",
+    "primaria": {
+      "desertor": 117,
+      "denominador": 10527,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 123,
+      "denominador": 8041,
+      "tasa": 1.53
+    },
+    "brecha_tasa": 0.42
+  },
+  {
+    "ubigeo": "200101",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "PIURA",
+    "primaria": {
+      "desertor": 263,
+      "denominador": 21210,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 299,
+      "denominador": 16201,
+      "tasa": 1.85
+    },
+    "brecha_tasa": 0.61
+  },
+  {
+    "ubigeo": "200104",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "CASTILLA",
+    "primaria": {
+      "desertor": 207,
+      "denominador": 15150,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 232,
+      "denominador": 11572,
+      "tasa": 2.0
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "200114",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "TAMBO GRANDE",
+    "primaria": {
+      "desertor": 218,
+      "denominador": 12120,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 230,
+      "denominador": 9258,
+      "tasa": 2.48
+    },
+    "brecha_tasa": 0.68
+  },
+  {
+    "ubigeo": "200105",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "CATACAOS",
+    "primaria": {
+      "desertor": 120,
+      "denominador": 7575,
+      "tasa": 1.58
+    },
+    "secundaria": {
+      "desertor": 125,
+      "denominador": 5786,
+      "tasa": 2.16
+    },
+    "brecha_tasa": 0.58
+  },
+  {
+    "ubigeo": "200115",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "VEINTISEIS DE OCTUBRE",
+    "primaria": {
+      "desertor": 159,
+      "denominador": 10605,
+      "tasa": 1.5
+    },
+    "secundaria": {
+      "desertor": 172,
+      "denominador": 8100,
+      "tasa": 2.12
+    },
+    "brecha_tasa": 0.62
+  },
+  {
+    "ubigeo": "200110",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "LA UNION",
+    "primaria": {
+      "desertor": 76,
+      "denominador": 4545,
+      "tasa": 1.67
+    },
+    "secundaria": {
+      "desertor": 81,
+      "denominador": 3472,
+      "tasa": 2.33
+    },
+    "brecha_tasa": 0.66
+  },
+  {
+    "ubigeo": "200109",
+    "departamento": "PIURA",
+    "provincia": "PIURA",
+    "distrito": "LA ARENA",
+    "primaria": {
+      "desertor": 80,
+      "denominador": 4545,
+      "tasa": 1.76
+    },
+    "secundaria": {
+      "desertor": 85,
+      "denominador": 3472,
+      "tasa": 2.45
+    },
+    "brecha_tasa": 0.69
+  },
+  {
+    "ubigeo": "200601",
+    "departamento": "PIURA",
+    "provincia": "SULLANA",
+    "distrito": "SULLANA",
+    "primaria": {
+      "desertor": 480,
+      "denominador": 34088,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 532,
+      "denominador": 26037,
+      "tasa": 2.04
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "200602",
+    "departamento": "PIURA",
+    "provincia": "SULLANA",
+    "distrito": "BELLAVISTA",
+    "primaria": {
+      "desertor": 201,
+      "denominador": 15150,
+      "tasa": 1.33
+    },
+    "secundaria": {
+      "desertor": 223,
+      "denominador": 11572,
+      "tasa": 1.93
+    },
+    "brecha_tasa": 0.6
+  },
+  {
+    "ubigeo": "200604",
+    "departamento": "PIURA",
+    "provincia": "SULLANA",
+    "distrito": "LANCONES",
+    "primaria": {
+      "desertor": 223,
+      "denominador": 11363,
+      "tasa": 1.96
+    },
+    "secundaria": {
+      "desertor": 237,
+      "denominador": 8679,
+      "tasa": 2.73
+    },
+    "brecha_tasa": 0.77
+  },
+  {
+    "ubigeo": "200606",
+    "departamento": "PIURA",
+    "provincia": "SULLANA",
+    "distrito": "QUERECOTILLO",
+    "primaria": {
+      "desertor": 246,
+      "denominador": 15150,
+      "tasa": 1.62
+    },
+    "secundaria": {
+      "desertor": 260,
+      "denominador": 11572,
+      "tasa": 2.25
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "200701",
+    "departamento": "PIURA",
+    "provincia": "TALARA",
+    "distrito": "PARIÑAS",
+    "primaria": {
+      "desertor": 525,
+      "denominador": 45451,
+      "tasa": 1.16
+    },
+    "secundaria": {
+      "desertor": 585,
+      "denominador": 34716,
+      "tasa": 1.69
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "200706",
+    "departamento": "PIURA",
+    "provincia": "TALARA",
+    "distrito": "MANCORA",
+    "primaria": {
+      "desertor": 233,
+      "denominador": 15150,
+      "tasa": 1.54
+    },
+    "secundaria": {
+      "desertor": 255,
+      "denominador": 11572,
+      "tasa": 2.2
+    },
+    "brecha_tasa": 0.66
+  },
+  {
+    "ubigeo": "200705",
+    "departamento": "PIURA",
+    "provincia": "TALARA",
+    "distrito": "LOS ORGANOS",
+    "primaria": {
+      "desertor": 207,
+      "denominador": 15150,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 228,
+      "denominador": 11572,
+      "tasa": 1.97
+    },
+    "brecha_tasa": 0.6
+  },
+  {
+    "ubigeo": "200401",
+    "departamento": "PIURA",
+    "provincia": "MORROPON",
+    "distrito": "CHULUCANAS",
+    "primaria": {
+      "desertor": 694,
+      "denominador": 41663,
+      "tasa": 1.67
+    },
+    "secundaria": {
+      "desertor": 740,
+      "denominador": 31823,
+      "tasa": 2.33
+    },
+    "brecha_tasa": 0.66
+  },
+  {
+    "ubigeo": "200405",
+    "departamento": "PIURA",
+    "provincia": "MORROPON",
+    "distrito": "MORROPON",
+    "primaria": {
+      "desertor": 627,
+      "denominador": 34088,
+      "tasa": 1.84
+    },
+    "secundaria": {
+      "desertor": 668,
+      "denominador": 26037,
+      "tasa": 2.57
+    },
+    "brecha_tasa": 0.73
+  },
+  {
+    "ubigeo": "200501",
+    "departamento": "PIURA",
+    "provincia": "PAITA",
+    "distrito": "PAITA",
+    "primaria": {
+      "desertor": 725,
+      "denominador": 53026,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 812,
+      "denominador": 40502,
+      "tasa": 2.0
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "200507",
+    "departamento": "PIURA",
+    "provincia": "PAITA",
+    "distrito": "VICHAYAL",
+    "primaria": {
+      "desertor": 408,
+      "denominador": 22725,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 439,
+      "denominador": 17358,
+      "tasa": 2.53
+    },
+    "brecha_tasa": 0.73
+  },
+  {
+    "ubigeo": "200301",
+    "departamento": "PIURA",
+    "provincia": "HUANCABAMBA",
+    "distrito": "HUANCABAMBA",
+    "primaria": {
+      "desertor": 793,
+      "denominador": 37876,
+      "tasa": 2.09
+    },
+    "secundaria": {
+      "desertor": 881,
+      "denominador": 28930,
+      "tasa": 3.05
+    },
+    "brecha_tasa": 0.96
+  },
+  {
+    "ubigeo": "200303",
+    "departamento": "PIURA",
+    "provincia": "HUANCABAMBA",
+    "distrito": "CANCHAQUE",
+    "primaria": {
+      "desertor": 745,
+      "denominador": 37876,
+      "tasa": 1.97
+    },
+    "secundaria": {
+      "desertor": 812,
+      "denominador": 28930,
+      "tasa": 2.81
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "200201",
+    "departamento": "PIURA",
+    "provincia": "AYABACA",
+    "distrito": "AYABACA",
+    "primaria": {
+      "desertor": 971,
+      "denominador": 45451,
+      "tasa": 2.14
+    },
+    "secundaria": {
+      "desertor": 1072,
+      "denominador": 34716,
+      "tasa": 3.09
+    },
+    "brecha_tasa": 0.95
+  },
+  {
+    "ubigeo": "200207",
+    "departamento": "PIURA",
+    "provincia": "AYABACA",
+    "distrito": "PAIMAS",
+    "primaria": {
+      "desertor": 570,
+      "denominador": 30301,
+      "tasa": 1.88
+    },
+    "secundaria": {
+      "desertor": 631,
+      "denominador": 23144,
+      "tasa": 2.73
+    },
+    "brecha_tasa": 0.85
+  },
+  {
+    "ubigeo": "200801",
+    "departamento": "PIURA",
+    "provincia": "SECHURA",
+    "distrito": "SECHURA",
+    "primaria": {
+      "desertor": 652,
+      "denominador": 49239,
+      "tasa": 1.32
+    },
+    "secundaria": {
+      "desertor": 739,
+      "denominador": 37609,
+      "tasa": 1.96
+    },
+    "brecha_tasa": 0.64
+  },
+  {
+    "ubigeo": "200802",
+    "departamento": "PIURA",
+    "provincia": "SECHURA",
+    "distrito": "BELLAVISTA DE LA UNION",
+    "primaria": {
+      "desertor": 386,
+      "denominador": 26513,
+      "tasa": 1.46
+    },
+    "secundaria": {
+      "desertor": 423,
+      "denominador": 20251,
+      "tasa": 2.09
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "130101",
+    "departamento": "LA LIBERTAD",
+    "provincia": "TRUJILLO",
+    "distrito": "TRUJILLO",
+    "primaria": {
+      "desertor": 271,
+      "denominador": 25343,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 318,
+      "denominador": 19358,
+      "tasa": 1.64
+    },
+    "brecha_tasa": 0.57
+  },
+  {
+    "ubigeo": "130103",
+    "departamento": "LA LIBERTAD",
+    "provincia": "TRUJILLO",
+    "distrito": "FLORENCIA DE MORA",
+    "primaria": {
+      "desertor": 172,
+      "denominador": 10861,
+      "tasa": 1.58
+    },
+    "secundaria": {
+      "desertor": 183,
+      "denominador": 8296,
+      "tasa": 2.21
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "130102",
+    "departamento": "LA LIBERTAD",
+    "provincia": "TRUJILLO",
+    "distrito": "EL PORVENIR",
+    "primaria": {
+      "desertor": 325,
+      "denominador": 18102,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 344,
+      "denominador": 13827,
+      "tasa": 2.49
+    },
+    "brecha_tasa": 0.69
+  },
+  {
+    "ubigeo": "130107",
+    "departamento": "LA LIBERTAD",
+    "provincia": "TRUJILLO",
+    "distrito": "LA ESPERANZA",
+    "primaria": {
+      "desertor": 302,
+      "denominador": 18102,
+      "tasa": 1.67
+    },
+    "secundaria": {
+      "desertor": 327,
+      "denominador": 13827,
+      "tasa": 2.36
+    },
+    "brecha_tasa": 0.69
+  },
+  {
+    "ubigeo": "130901",
+    "departamento": "LA LIBERTAD",
+    "provincia": "SANCHEZ CARRION",
+    "distrito": "HUAMACHUCO",
+    "primaria": {
+      "desertor": 854,
+      "denominador": 43446,
+      "tasa": 1.97
+    },
+    "secundaria": {
+      "desertor": 931,
+      "denominador": 33185,
+      "tasa": 2.81
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "130902",
+    "departamento": "LA LIBERTAD",
+    "provincia": "SANCHEZ CARRION",
+    "distrito": "CHUGAY",
+    "primaria": {
+      "desertor": 644,
+      "denominador": 28964,
+      "tasa": 2.22
+    },
+    "secundaria": {
+      "desertor": 692,
+      "denominador": 22123,
+      "tasa": 3.13
+    },
+    "brecha_tasa": 0.91
+  },
+  {
+    "ubigeo": "130801",
+    "departamento": "LA LIBERTAD",
+    "provincia": "PATAZ",
+    "distrito": "TAYABAMBA",
+    "primaria": {
+      "desertor": 1040,
+      "denominador": 43446,
+      "tasa": 2.39
+    },
+    "secundaria": {
+      "desertor": 1118,
+      "denominador": 33185,
+      "tasa": 3.37
+    },
+    "brecha_tasa": 0.98
+  },
+  {
+    "ubigeo": "130808",
+    "departamento": "LA LIBERTAD",
+    "provincia": "PATAZ",
+    "distrito": "PARCOY",
+    "primaria": {
+      "desertor": 718,
+      "denominador": 28964,
+      "tasa": 2.48
+    },
+    "secundaria": {
+      "desertor": 780,
+      "denominador": 22123,
+      "tasa": 3.53
+    },
+    "brecha_tasa": 1.05
+  },
+  {
+    "ubigeo": "130201",
+    "departamento": "LA LIBERTAD",
+    "provincia": "ASCOPE",
+    "distrito": "ASCOPE",
+    "primaria": {
+      "desertor": 495,
+      "denominador": 36205,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 544,
+      "denominador": 27654,
+      "tasa": 1.97
+    },
+    "brecha_tasa": 0.6
+  },
+  {
+    "ubigeo": "130202",
+    "departamento": "LA LIBERTAD",
+    "provincia": "ASCOPE",
+    "distrito": "CHICAMA",
+    "primaria": {
+      "desertor": 510,
+      "denominador": 36205,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 554,
+      "denominador": 27654,
+      "tasa": 2.0
+    },
+    "brecha_tasa": 0.59
+  },
+  {
+    "ubigeo": "060101",
+    "departamento": "CAJAMARCA",
+    "provincia": "CAJAMARCA",
+    "distrito": "CAJAMARCA",
+    "primaria": {
+      "desertor": 395,
+      "denominador": 31860,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 468,
+      "denominador": 24336,
+      "tasa": 1.92
+    },
+    "brecha_tasa": 0.68
+  },
+  {
+    "ubigeo": "060102",
+    "departamento": "CAJAMARCA",
+    "provincia": "CAJAMARCA",
+    "distrito": "ASUNCION",
+    "primaria": {
+      "desertor": 208,
+      "denominador": 11586,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 227,
+      "denominador": 8849,
+      "tasa": 2.57
+    },
+    "brecha_tasa": 0.77
+  },
+  {
+    "ubigeo": "060107",
+    "departamento": "CAJAMARCA",
+    "provincia": "CAJAMARCA",
+    "distrito": "LOS BAÑOS DEL INCA",
+    "primaria": {
+      "desertor": 198,
+      "denominador": 14482,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 235,
+      "denominador": 11062,
+      "tasa": 2.12
+    },
+    "brecha_tasa": 0.75
+  },
+  {
+    "ubigeo": "060801",
+    "departamento": "CAJAMARCA",
+    "provincia": "JAEN",
+    "distrito": "JAEN",
+    "primaria": {
+      "desertor": 563,
+      "denominador": 37653,
+      "tasa": 1.5
+    },
+    "secundaria": {
+      "desertor": 646,
+      "denominador": 28760,
+      "tasa": 2.25
+    },
+    "brecha_tasa": 0.75
+  },
+  {
+    "ubigeo": "060803",
+    "departamento": "CAJAMARCA",
+    "provincia": "JAEN",
+    "distrito": "COLASAY",
+    "primaria": {
+      "desertor": 416,
+      "denominador": 20275,
+      "tasa": 2.05
+    },
+    "secundaria": {
+      "desertor": 460,
+      "denominador": 15486,
+      "tasa": 2.97
+    },
+    "brecha_tasa": 0.92
+  },
+  {
+    "ubigeo": "060401",
+    "departamento": "CAJAMARCA",
+    "provincia": "CHOTA",
+    "distrito": "CHOTA",
+    "primaria": {
+      "desertor": 610,
+      "denominador": 34757,
+      "tasa": 1.76
+    },
+    "secundaria": {
+      "desertor": 692,
+      "denominador": 26548,
+      "tasa": 2.61
+    },
+    "brecha_tasa": 0.85
+  },
+  {
+    "ubigeo": "060416",
+    "departamento": "CAJAMARCA",
+    "provincia": "CHOTA",
+    "distrito": "TOCMOCHE",
+    "primaria": {
+      "desertor": 495,
+      "denominador": 23171,
+      "tasa": 2.14
+    },
+    "secundaria": {
+      "desertor": 540,
+      "denominador": 17699,
+      "tasa": 3.05
+    },
+    "brecha_tasa": 0.91
+  },
+  {
+    "ubigeo": "060901",
+    "departamento": "CAJAMARCA",
+    "provincia": "SAN IGNACIO",
+    "distrito": "SAN IGNACIO",
+    "primaria": {
+      "desertor": 599,
+      "denominador": 31860,
+      "tasa": 1.88
+    },
+    "secundaria": {
+      "desertor": 663,
+      "denominador": 24336,
+      "tasa": 2.72
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "060907",
+    "departamento": "CAJAMARCA",
+    "provincia": "SAN IGNACIO",
+    "distrito": "TABACONAS",
+    "primaria": {
+      "desertor": 580,
+      "denominador": 26067,
+      "tasa": 2.23
+    },
+    "secundaria": {
+      "desertor": 654,
+      "denominador": 19911,
+      "tasa": 3.28
+    },
+    "brecha_tasa": 1.05
+  },
+  {
+    "ubigeo": "080101",
+    "departamento": "CUSCO",
+    "provincia": "CUSCO",
+    "distrito": "CUSCO",
+    "primaria": {
+      "desertor": 176,
+      "denominador": 17935,
+      "tasa": 0.98
+    },
+    "secundaria": {
+      "desertor": 198,
+      "denominador": 13699,
+      "tasa": 1.45
+    },
+    "brecha_tasa": 0.47
+  },
+  {
+    "ubigeo": "080106",
+    "departamento": "CUSCO",
+    "provincia": "CUSCO",
+    "distrito": "SANTIAGO",
+    "primaria": {
+      "desertor": 164,
+      "denominador": 12811,
+      "tasa": 1.28
+    },
+    "secundaria": {
+      "desertor": 176,
+      "denominador": 9785,
+      "tasa": 1.8
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "080108",
+    "departamento": "CUSCO",
+    "provincia": "CUSCO",
+    "distrito": "WANCHAQ",
+    "primaria": {
+      "desertor": 83,
+      "denominador": 10249,
+      "tasa": 0.81
+    },
+    "secundaria": {
+      "desertor": 94,
+      "denominador": 7828,
+      "tasa": 1.2
+    },
+    "brecha_tasa": 0.39
+  },
+  {
+    "ubigeo": "080107",
+    "departamento": "CUSCO",
+    "provincia": "CUSCO",
+    "distrito": "SAYLLA",
+    "primaria": {
+      "desertor": 149,
+      "denominador": 10249,
+      "tasa": 1.45
+    },
+    "secundaria": {
+      "desertor": 160,
+      "denominador": 7828,
+      "tasa": 2.04
+    },
+    "brecha_tasa": 0.59
+  },
+  {
+    "ubigeo": "080901",
+    "departamento": "CUSCO",
+    "provincia": "LA CONVENCION",
+    "distrito": "SANTA ANA (QUILLABAMBA)",
+    "primaria": {
+      "desertor": 394,
+      "denominador": 25622,
+      "tasa": 1.54
+    },
+    "secundaria": {
+      "desertor": 423,
+      "denominador": 19571,
+      "tasa": 2.16
+    },
+    "brecha_tasa": 0.62
+  },
+  {
+    "ubigeo": "080903",
+    "departamento": "CUSCO",
+    "provincia": "LA CONVENCION",
+    "distrito": "ECHARATE",
+    "primaria": {
+      "desertor": 296,
+      "denominador": 15373,
+      "tasa": 1.93
+    },
+    "secundaria": {
+      "desertor": 325,
+      "denominador": 11742,
+      "tasa": 2.77
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "080914",
+    "departamento": "CUSCO",
+    "provincia": "LA CONVENCION",
+    "distrito": "VILLA VIRGEN",
+    "primaria": {
+      "desertor": 237,
+      "denominador": 10249,
+      "tasa": 2.31
+    },
+    "secundaria": {
+      "desertor": 257,
+      "denominador": 7828,
+      "tasa": 3.28
+    },
+    "brecha_tasa": 0.97
+  },
+  {
+    "ubigeo": "080601",
+    "departamento": "CUSCO",
+    "provincia": "CANCHIS",
+    "distrito": "SICUANI",
+    "primaria": {
+      "desertor": 441,
+      "denominador": 33308,
+      "tasa": 1.32
+    },
+    "secundaria": {
+      "desertor": 469,
+      "denominador": 25442,
+      "tasa": 1.84
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "080603",
+    "departamento": "CUSCO",
+    "provincia": "CANCHIS",
+    "distrito": "COMBAPATA",
+    "primaria": {
+      "desertor": 307,
+      "denominador": 17935,
+      "tasa": 1.71
+    },
+    "secundaria": {
+      "desertor": 335,
+      "denominador": 13699,
+      "tasa": 2.45
+    },
+    "brecha_tasa": 0.74
+  },
+  {
+    "ubigeo": "081301",
+    "departamento": "CUSCO",
+    "provincia": "URUBAMBA",
+    "distrito": "URUBAMBA",
+    "primaria": {
+      "desertor": 368,
+      "denominador": 30746,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 405,
+      "denominador": 23485,
+      "tasa": 1.72
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "081305",
+    "departamento": "CUSCO",
+    "provincia": "URUBAMBA",
+    "distrito": "OLLANTAYTAMBO",
+    "primaria": {
+      "desertor": 289,
+      "denominador": 20497,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 314,
+      "denominador": 15656,
+      "tasa": 2.01
+    },
+    "brecha_tasa": 0.6
+  },
+  {
+    "ubigeo": "081201",
+    "departamento": "CUSCO",
+    "provincia": "QUISPICANCHI",
+    "distrito": "URCOS",
+    "primaria": {
+      "desertor": 416,
+      "denominador": 25622,
+      "tasa": 1.62
+    },
+    "secundaria": {
+      "desertor": 447,
+      "denominador": 19571,
+      "tasa": 2.28
+    },
+    "brecha_tasa": 0.66
+  },
+  {
+    "ubigeo": "081203",
+    "departamento": "CUSCO",
+    "provincia": "QUISPICANCHI",
+    "distrito": "CAMANTI",
+    "primaria": {
+      "desertor": 537,
+      "denominador": 25622,
+      "tasa": 2.1
+    },
+    "secundaria": {
+      "desertor": 589,
+      "denominador": 19571,
+      "tasa": 3.01
+    },
+    "brecha_tasa": 0.91
+  },
+  {
+    "ubigeo": "120101",
+    "departamento": "JUNIN",
+    "provincia": "HUANCAYO",
+    "distrito": "HUANCAYO",
+    "primaria": {
+      "desertor": 236,
+      "denominador": 22057,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 264,
+      "denominador": 16848,
+      "tasa": 1.57
+    },
+    "brecha_tasa": 0.5
+  },
+  {
+    "ubigeo": "120114",
+    "departamento": "JUNIN",
+    "provincia": "HUANCAYO",
+    "distrito": "EL TAMBO",
+    "primaria": {
+      "desertor": 198,
+      "denominador": 17155,
+      "tasa": 1.15
+    },
+    "secundaria": {
+      "desertor": 216,
+      "denominador": 13104,
+      "tasa": 1.65
+    },
+    "brecha_tasa": 0.5
+  },
+  {
+    "ubigeo": "120107",
+    "departamento": "JUNIN",
+    "provincia": "HUANCAYO",
+    "distrito": "CHILCA",
+    "primaria": {
+      "desertor": 143,
+      "denominador": 9803,
+      "tasa": 1.46
+    },
+    "secundaria": {
+      "desertor": 156,
+      "denominador": 7488,
+      "tasa": 2.08
+    },
+    "brecha_tasa": 0.62
+  },
+  {
+    "ubigeo": "120601",
+    "departamento": "JUNIN",
+    "provincia": "SATIPO",
+    "distrito": "SATIPO",
+    "primaria": {
+      "desertor": 443,
+      "denominador": 22057,
+      "tasa": 2.01
+    },
+    "secundaria": {
+      "desertor": 500,
+      "denominador": 16848,
+      "tasa": 2.97
+    },
+    "brecha_tasa": 0.96
+  },
+  {
+    "ubigeo": "120606",
+    "departamento": "JUNIN",
+    "provincia": "SATIPO",
+    "distrito": "PANGOA",
+    "primaria": {
+      "desertor": 410,
+      "denominador": 17155,
+      "tasa": 2.39
+    },
+    "secundaria": {
+      "desertor": 457,
+      "denominador": 13104,
+      "tasa": 3.49
+    },
+    "brecha_tasa": 1.1
+  },
+  {
+    "ubigeo": "120607",
+    "departamento": "JUNIN",
+    "provincia": "SATIPO",
+    "distrito": "RIO NEGRO",
+    "primaria": {
+      "desertor": 218,
+      "denominador": 9803,
+      "tasa": 2.22
+    },
+    "secundaria": {
+      "desertor": 243,
+      "denominador": 7488,
+      "tasa": 3.25
+    },
+    "brecha_tasa": 1.03
+  },
+  {
+    "ubigeo": "120301",
+    "departamento": "JUNIN",
+    "provincia": "CHANCHAMAYO",
+    "distrito": "CHANCHAMAYO",
+    "primaria": {
+      "desertor": 427,
+      "denominador": 26959,
+      "tasa": 1.58
+    },
+    "secundaria": {
+      "desertor": 463,
+      "denominador": 20592,
+      "tasa": 2.25
+    },
+    "brecha_tasa": 0.67
+  },
+  {
+    "ubigeo": "120305",
+    "departamento": "JUNIN",
+    "provincia": "CHANCHAMAYO",
+    "distrito": "PICHANAQUI",
+    "primaria": {
+      "desertor": 415,
+      "denominador": 22057,
+      "tasa": 1.88
+    },
+    "secundaria": {
+      "desertor": 460,
+      "denominador": 16848,
+      "tasa": 2.73
+    },
+    "brecha_tasa": 0.85
+  },
+  {
+    "ubigeo": "120701",
+    "departamento": "JUNIN",
+    "provincia": "TARMA",
+    "distrito": "TARMA",
+    "primaria": {
+      "desertor": 410,
+      "denominador": 34311,
+      "tasa": 1.19
+    },
+    "secundaria": {
+      "desertor": 441,
+      "denominador": 26207,
+      "tasa": 1.68
+    },
+    "brecha_tasa": 0.49
+  },
+  {
+    "ubigeo": "120702",
+    "departamento": "JUNIN",
+    "provincia": "TARMA",
+    "distrito": "ACOBAMBA",
+    "primaria": {
+      "desertor": 220,
+      "denominador": 14705,
+      "tasa": 1.5
+    },
+    "secundaria": {
+      "desertor": 234,
+      "denominador": 11232,
+      "tasa": 2.08
+    },
+    "brecha_tasa": 0.58
+  },
+  {
+    "ubigeo": "040101",
+    "departamento": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "distrito": "AREQUIPA",
+    "primaria": {
+      "desertor": 91,
+      "denominador": 12532,
+      "tasa": 0.73
+    },
+    "secundaria": {
+      "desertor": 107,
+      "denominador": 9573,
+      "tasa": 1.12
+    },
+    "brecha_tasa": 0.39
+  },
+  {
+    "ubigeo": "040103",
+    "departamento": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "distrito": "CERRO COLORADO",
+    "primaria": {
+      "desertor": 139,
+      "denominador": 12532,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 150,
+      "denominador": 9573,
+      "tasa": 1.57
+    },
+    "brecha_tasa": 0.46
+  },
+  {
+    "ubigeo": "040112",
+    "departamento": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "distrito": "PAUCARPATA",
+    "primaria": {
+      "desertor": 103,
+      "denominador": 10026,
+      "tasa": 1.03
+    },
+    "secundaria": {
+      "desertor": 114,
+      "denominador": 7658,
+      "tasa": 1.49
+    },
+    "brecha_tasa": 0.46
+  },
+  {
+    "ubigeo": "040104",
+    "departamento": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "distrito": "CAYMA",
+    "primaria": {
+      "desertor": 68,
+      "denominador": 7519,
+      "tasa": 0.9
+    },
+    "secundaria": {
+      "desertor": 76,
+      "denominador": 5744,
+      "tasa": 1.32
+    },
+    "brecha_tasa": 0.42
+  },
+  {
+    "ubigeo": "040126",
+    "departamento": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "distrito": "YURA",
+    "primaria": {
+      "desertor": 100,
+      "denominador": 7519,
+      "tasa": 1.33
+    },
+    "secundaria": {
+      "desertor": 106,
+      "denominador": 5744,
+      "tasa": 1.85
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "040201",
+    "departamento": "AREQUIPA",
+    "provincia": "CAMANA",
+    "distrito": "CAMANA",
+    "primaria": {
+      "desertor": 373,
+      "denominador": 30078,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 396,
+      "denominador": 22974,
+      "tasa": 1.72
+    },
+    "brecha_tasa": 0.48
+  },
+  {
+    "ubigeo": "040208",
+    "departamento": "AREQUIPA",
+    "provincia": "CAMANA",
+    "distrito": "SAMUEL PASTOR",
+    "primaria": {
+      "desertor": 274,
+      "denominador": 20052,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 289,
+      "denominador": 15316,
+      "tasa": 1.89
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "040701",
+    "departamento": "AREQUIPA",
+    "provincia": "ISLAY",
+    "distrito": "MOLLENDO",
+    "primaria": {
+      "desertor": 321,
+      "denominador": 30078,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 350,
+      "denominador": 22974,
+      "tasa": 1.52
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "040704",
+    "departamento": "AREQUIPA",
+    "provincia": "ISLAY",
+    "distrito": "ISLAY",
+    "primaria": {
+      "desertor": 240,
+      "denominador": 20052,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 252,
+      "denominador": 15316,
+      "tasa": 1.65
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "040501",
+    "departamento": "AREQUIPA",
+    "provincia": "CAYLLOMA",
+    "distrito": "CHIVAY",
+    "primaria": {
+      "desertor": 386,
+      "denominador": 25065,
+      "tasa": 1.54
+    },
+    "secundaria": {
+      "desertor": 415,
+      "denominador": 19145,
+      "tasa": 2.17
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "040510",
+    "departamento": "AREQUIPA",
+    "provincia": "CAYLLOMA",
+    "distrito": "MAJES",
+    "primaria": {
+      "desertor": 354,
+      "denominador": 25065,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 384,
+      "denominador": 19145,
+      "tasa": 2.01
+    },
+    "brecha_tasa": 0.6
+  },
+  {
+    "ubigeo": "211101",
+    "departamento": "PUNO",
+    "provincia": "SAN ROMAN",
+    "distrito": "JULIACA",
+    "primaria": {
+      "desertor": 401,
+      "denominador": 33531,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 452,
+      "denominador": 25612,
+      "tasa": 1.76
+    },
+    "brecha_tasa": 0.56
+  },
+  {
+    "ubigeo": "211103",
+    "departamento": "PUNO",
+    "provincia": "SAN ROMAN",
+    "distrito": "CARACOTO",
+    "primaria": {
+      "desertor": 227,
+      "denominador": 14371,
+      "tasa": 1.58
+    },
+    "secundaria": {
+      "desertor": 246,
+      "denominador": 10977,
+      "tasa": 2.24
+    },
+    "brecha_tasa": 0.66
+  },
+  {
+    "ubigeo": "210101",
+    "departamento": "PUNO",
+    "provincia": "PUNO",
+    "distrito": "PUNO",
+    "primaria": {
+      "desertor": 306,
+      "denominador": 31136,
+      "tasa": 0.98
+    },
+    "secundaria": {
+      "desertor": 353,
+      "denominador": 23782,
+      "tasa": 1.48
+    },
+    "brecha_tasa": 0.5
+  },
+  {
+    "ubigeo": "210103",
+    "departamento": "PUNO",
+    "provincia": "PUNO",
+    "distrito": "ATUNCOLLA",
+    "primaria": {
+      "desertor": 244,
+      "denominador": 16766,
+      "tasa": 1.46
+    },
+    "secundaria": {
+      "desertor": 272,
+      "denominador": 12806,
+      "tasa": 2.12
+    },
+    "brecha_tasa": 0.66
+  },
+  {
+    "ubigeo": "210301",
+    "departamento": "PUNO",
+    "provincia": "CARABAYA",
+    "distrito": "MACUSANI",
+    "primaria": {
+      "desertor": 471,
+      "denominador": 23951,
+      "tasa": 1.97
+    },
+    "secundaria": {
+      "desertor": 520,
+      "denominador": 18294,
+      "tasa": 2.84
+    },
+    "brecha_tasa": 0.87
+  },
+  {
+    "ubigeo": "210310",
+    "departamento": "PUNO",
+    "provincia": "CARABAYA",
+    "distrito": "SAN GABAN",
+    "primaria": {
+      "desertor": 574,
+      "denominador": 23951,
+      "tasa": 2.4
+    },
+    "secundaria": {
+      "desertor": 631,
+      "denominador": 18294,
+      "tasa": 3.45
+    },
+    "brecha_tasa": 1.05
+  },
+  {
+    "ubigeo": "211201",
+    "departamento": "PUNO",
+    "provincia": "SANDIA",
+    "distrito": "SANDIA",
+    "primaria": {
+      "desertor": 543,
+      "denominador": 23951,
+      "tasa": 2.27
+    },
+    "secundaria": {
+      "desertor": 601,
+      "denominador": 18294,
+      "tasa": 3.29
+    },
+    "brecha_tasa": 1.02
+  },
+  {
+    "ubigeo": "211209",
+    "departamento": "PUNO",
+    "provincia": "SANDIA",
+    "distrito": "YANAHUAYA",
+    "primaria": {
+      "desertor": 634,
+      "denominador": 23951,
+      "tasa": 2.65
+    },
+    "secundaria": {
+      "desertor": 697,
+      "denominador": 18294,
+      "tasa": 3.81
+    },
+    "brecha_tasa": 1.16
+  },
+  {
+    "ubigeo": "021801",
+    "departamento": "ANCASH",
+    "provincia": "SANTA",
+    "distrito": "CHIMBOTE",
+    "primaria": {
+      "desertor": 236,
+      "denominador": 19049,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 257,
+      "denominador": 14550,
+      "tasa": 1.77
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "021809",
+    "departamento": "ANCASH",
+    "provincia": "SANTA",
+    "distrito": "NUEVO CHIMBOTE",
+    "primaria": {
+      "desertor": 165,
+      "denominador": 14816,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 186,
+      "denominador": 11317,
+      "tasa": 1.64
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "021808",
+    "departamento": "ANCASH",
+    "provincia": "SANTA",
+    "distrito": "SANTA",
+    "primaria": {
+      "desertor": 127,
+      "denominador": 8466,
+      "tasa": 1.5
+    },
+    "secundaria": {
+      "desertor": 137,
+      "denominador": 6467,
+      "tasa": 2.12
+    },
+    "brecha_tasa": 0.62
+  },
+  {
+    "ubigeo": "020101",
+    "departamento": "ANCASH",
+    "provincia": "HUARAZ",
+    "distrito": "HUARAZ",
+    "primaria": {
+      "desertor": 271,
+      "denominador": 25399,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 303,
+      "denominador": 19400,
+      "tasa": 1.56
+    },
+    "brecha_tasa": 0.49
+  },
+  {
+    "ubigeo": "020107",
+    "departamento": "ANCASH",
+    "provincia": "HUARAZ",
+    "distrito": "INDEPENDENCIA",
+    "primaria": {
+      "desertor": 203,
+      "denominador": 16933,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 223,
+      "denominador": 12934,
+      "tasa": 1.72
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "021001",
+    "departamento": "ANCASH",
+    "provincia": "HUARI",
+    "distrito": "HUARI",
+    "primaria": {
+      "desertor": 418,
+      "denominador": 23282,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 464,
+      "denominador": 17784,
+      "tasa": 2.61
+    },
+    "brecha_tasa": 0.81
+  },
+  {
+    "ubigeo": "021013",
+    "departamento": "ANCASH",
+    "provincia": "HUARI",
+    "distrito": "SAN MARCOS",
+    "primaria": {
+      "desertor": 374,
+      "denominador": 19049,
+      "tasa": 1.96
+    },
+    "secundaria": {
+      "desertor": 408,
+      "denominador": 14550,
+      "tasa": 2.8
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "140101",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "CHICLAYO",
+    "distrito": "CHICLAYO",
+    "primaria": {
+      "desertor": 182,
+      "denominador": 16376,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 205,
+      "denominador": 12508,
+      "tasa": 1.64
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "140106",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "CHICLAYO",
+    "distrito": "JOSE LEONARDO ORTIZ",
+    "primaria": {
+      "desertor": 259,
+      "denominador": 16376,
+      "tasa": 1.58
+    },
+    "secundaria": {
+      "desertor": 276,
+      "denominador": 12508,
+      "tasa": 2.21
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "140115",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "CHICLAYO",
+    "distrito": "LA VICTORIA",
+    "primaria": {
+      "desertor": 180,
+      "denominador": 14036,
+      "tasa": 1.28
+    },
+    "secundaria": {
+      "desertor": 198,
+      "denominador": 10721,
+      "tasa": 1.85
+    },
+    "brecha_tasa": 0.57
+  },
+  {
+    "ubigeo": "140301",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "LAMBAYEQUE",
+    "distrito": "LAMBAYEQUE",
+    "primaria": {
+      "desertor": 320,
+      "denominador": 23394,
+      "tasa": 1.37
+    },
+    "secundaria": {
+      "desertor": 351,
+      "denominador": 17869,
+      "tasa": 1.96
+    },
+    "brecha_tasa": 0.59
+  },
+  {
+    "ubigeo": "140307",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "LAMBAYEQUE",
+    "distrito": "MOTUPE",
+    "primaria": {
+      "desertor": 420,
+      "denominador": 23394,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 459,
+      "denominador": 17869,
+      "tasa": 2.57
+    },
+    "brecha_tasa": 0.77
+  },
+  {
+    "ubigeo": "140201",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "FERREÑAFE",
+    "distrito": "FERREÑAFE",
+    "primaria": {
+      "desertor": 360,
+      "denominador": 23394,
+      "tasa": 1.54
+    },
+    "secundaria": {
+      "desertor": 387,
+      "denominador": 17869,
+      "tasa": 2.17
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "140203",
+    "departamento": "LAMBAYEQUE",
+    "provincia": "FERREÑAFE",
+    "distrito": "INCAHUASI",
+    "primaria": {
+      "desertor": 550,
+      "denominador": 23394,
+      "tasa": 2.35
+    },
+    "secundaria": {
+      "desertor": 595,
+      "denominador": 17869,
+      "tasa": 3.33
+    },
+    "brecha_tasa": 0.98
+  },
+  {
+    "ubigeo": "160101",
+    "departamento": "LORETO",
+    "provincia": "MAYNAS",
+    "distrito": "IQUITOS",
+    "primaria": {
+      "desertor": 304,
+      "denominador": 14816,
+      "tasa": 2.05
+    },
+    "secundaria": {
+      "desertor": 381,
+      "denominador": 11317,
+      "tasa": 3.37
+    },
+    "brecha_tasa": 1.32
+  },
+  {
+    "ubigeo": "160112",
+    "departamento": "LORETO",
+    "provincia": "MAYNAS",
+    "distrito": "BELEN",
+    "primaria": {
+      "desertor": 290,
+      "denominador": 10583,
+      "tasa": 2.74
+    },
+    "secundaria": {
+      "desertor": 357,
+      "denominador": 8083,
+      "tasa": 4.42
+    },
+    "brecha_tasa": 1.68
+  },
+  {
+    "ubigeo": "160113",
+    "departamento": "LORETO",
+    "provincia": "MAYNAS",
+    "distrito": "SAN JUAN BAUTISTA",
+    "primaria": {
+      "desertor": 280,
+      "denominador": 10583,
+      "tasa": 2.65
+    },
+    "secundaria": {
+      "desertor": 343,
+      "denominador": 8083,
+      "tasa": 4.24
+    },
+    "brecha_tasa": 1.59
+  },
+  {
+    "ubigeo": "160108",
+    "departamento": "LORETO",
+    "provincia": "MAYNAS",
+    "distrito": "PUNCHANA",
+    "primaria": {
+      "desertor": 157,
+      "denominador": 6350,
+      "tasa": 2.47
+    },
+    "secundaria": {
+      "desertor": 191,
+      "denominador": 4850,
+      "tasa": 3.94
+    },
+    "brecha_tasa": 1.47
+  },
+  {
+    "ubigeo": "160201",
+    "departamento": "LORETO",
+    "provincia": "ALTO AMAZONAS",
+    "distrito": "YURIMAGUAS",
+    "primaria": {
+      "desertor": 776,
+      "denominador": 27516,
+      "tasa": 2.82
+    },
+    "secundaria": {
+      "desertor": 944,
+      "denominador": 21017,
+      "tasa": 4.49
+    },
+    "brecha_tasa": 1.67
+  },
+  {
+    "ubigeo": "160205",
+    "departamento": "LORETO",
+    "provincia": "ALTO AMAZONAS",
+    "distrito": "JEBEROS",
+    "primaria": {
+      "desertor": 608,
+      "denominador": 14816,
+      "tasa": 4.1
+    },
+    "secundaria": {
+      "desertor": 717,
+      "denominador": 11317,
+      "tasa": 6.34
+    },
+    "brecha_tasa": 2.24
+  },
+  {
+    "ubigeo": "160701",
+    "departamento": "LORETO",
+    "provincia": "DATEM DEL MARAÑON",
+    "distrito": "BARRANCA",
+    "primaria": {
+      "desertor": 666,
+      "denominador": 16933,
+      "tasa": 3.93
+    },
+    "secundaria": {
+      "desertor": 809,
+      "denominador": 12934,
+      "tasa": 6.25
+    },
+    "brecha_tasa": 2.32
+  },
+  {
+    "ubigeo": "160703",
+    "departamento": "LORETO",
+    "provincia": "DATEM DEL MARAÑON",
+    "distrito": "MANSERICHE",
+    "primaria": {
+      "desertor": 640,
+      "denominador": 12700,
+      "tasa": 5.04
+    },
+    "secundaria": {
+      "desertor": 747,
+      "denominador": 9700,
+      "tasa": 7.7
+    },
+    "brecha_tasa": 2.66
+  },
+  {
+    "ubigeo": "160704",
+    "departamento": "LORETO",
+    "provincia": "DATEM DEL MARAÑON",
+    "distrito": "MORONA",
+    "primaria": {
+      "desertor": 597,
+      "denominador": 12700,
+      "tasa": 4.7
+    },
+    "secundaria": {
+      "desertor": 715,
+      "denominador": 9700,
+      "tasa": 7.37
+    },
+    "brecha_tasa": 2.67
+  },
+  {
+    "ubigeo": "160301",
+    "departamento": "LORETO",
+    "provincia": "LORETO",
+    "distrito": "NAUTA",
+    "primaria": {
+      "desertor": 781,
+      "denominador": 25399,
+      "tasa": 3.07
+    },
+    "secundaria": {
+      "desertor": 949,
+      "denominador": 19400,
+      "tasa": 4.89
+    },
+    "brecha_tasa": 1.82
+  },
+  {
+    "ubigeo": "160304",
+    "departamento": "LORETO",
+    "provincia": "LORETO",
+    "distrito": "URARINAS",
+    "primaria": {
+      "desertor": 753,
+      "denominador": 16933,
+      "tasa": 4.45
+    },
+    "secundaria": {
+      "desertor": 892,
+      "denominador": 12934,
+      "tasa": 6.9
+    },
+    "brecha_tasa": 2.45
+  },
+  {
+    "ubigeo": "160601",
+    "departamento": "LORETO",
+    "provincia": "UCAYALI",
+    "distrito": "CONTAMANA",
+    "primaria": {
+      "desertor": 760,
+      "denominador": 25399,
+      "tasa": 2.99
+    },
+    "secundaria": {
+      "desertor": 902,
+      "denominador": 19400,
+      "tasa": 4.65
+    },
+    "brecha_tasa": 1.66
+  },
+  {
+    "ubigeo": "160603",
+    "departamento": "LORETO",
+    "provincia": "UCAYALI",
+    "distrito": "PADRE MARQUEZ",
+    "primaria": {
+      "desertor": 710,
+      "denominador": 16933,
+      "tasa": 4.19
+    },
+    "secundaria": {
+      "desertor": 840,
+      "denominador": 12934,
+      "tasa": 6.49
+    },
+    "brecha_tasa": 2.3
+  },
+  {
+    "ubigeo": "100101",
+    "departamento": "HUANUCO",
+    "provincia": "HUANUCO",
+    "distrito": "HUANUCO",
+    "primaria": {
+      "desertor": 229,
+      "denominador": 17267,
+      "tasa": 1.33
+    },
+    "secundaria": {
+      "desertor": 265,
+      "denominador": 13189,
+      "tasa": 2.01
+    },
+    "brecha_tasa": 0.68
+  },
+  {
+    "ubigeo": "100111",
+    "departamento": "HUANUCO",
+    "provincia": "HUANUCO",
+    "distrito": "AMARILIS",
+    "primaria": {
+      "desertor": 146,
+      "denominador": 10360,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 168,
+      "denominador": 7913,
+      "tasa": 2.12
+    },
+    "brecha_tasa": 0.71
+  },
+  {
+    "ubigeo": "100112",
+    "departamento": "HUANUCO",
+    "provincia": "HUANUCO",
+    "distrito": "PILLCO MARCA",
+    "primaria": {
+      "desertor": 100,
+      "denominador": 6907,
+      "tasa": 1.45
+    },
+    "secundaria": {
+      "desertor": 114,
+      "denominador": 5276,
+      "tasa": 2.16
+    },
+    "brecha_tasa": 0.71
+  },
+  {
+    "ubigeo": "100601",
+    "departamento": "HUANUCO",
+    "provincia": "LEONCIO PRADO",
+    "distrito": "RUPA-RUPA (TINGO MARIA)",
+    "primaria": {
+      "desertor": 345,
+      "denominador": 20720,
+      "tasa": 1.67
+    },
+    "secundaria": {
+      "desertor": 394,
+      "denominador": 15827,
+      "tasa": 2.49
+    },
+    "brecha_tasa": 0.82
+  },
+  {
+    "ubigeo": "100603",
+    "departamento": "HUANUCO",
+    "provincia": "LEONCIO PRADO",
+    "distrito": "HERMILIO VALDIZAN",
+    "primaria": {
+      "desertor": 331,
+      "denominador": 13814,
+      "tasa": 2.4
+    },
+    "secundaria": {
+      "desertor": 368,
+      "denominador": 10551,
+      "tasa": 3.49
+    },
+    "brecha_tasa": 1.09
+  },
+  {
+    "ubigeo": "100901",
+    "departamento": "HUANUCO",
+    "provincia": "PUERTO INCA",
+    "distrito": "PUERTO INCA",
+    "primaria": {
+      "desertor": 585,
+      "denominador": 18994,
+      "tasa": 3.08
+    },
+    "secundaria": {
+      "desertor": 669,
+      "denominador": 14508,
+      "tasa": 4.61
+    },
+    "brecha_tasa": 1.53
+  },
+  {
+    "ubigeo": "100905",
+    "departamento": "HUANUCO",
+    "provincia": "PUERTO INCA",
+    "distrito": "TOURNAVISTA",
+    "primaria": {
+      "desertor": 511,
+      "denominador": 15540,
+      "tasa": 3.29
+    },
+    "secundaria": {
+      "desertor": 581,
+      "denominador": 11870,
+      "tasa": 4.89
+    },
+    "brecha_tasa": 1.6
+  },
+  {
+    "ubigeo": "220901",
+    "departamento": "SAN MARTIN",
+    "provincia": "SAN MARTIN",
+    "distrito": "TARAPOTO",
+    "primaria": {
+      "desertor": 199,
+      "denominador": 15039,
+      "tasa": 1.32
+    },
+    "secundaria": {
+      "desertor": 230,
+      "denominador": 11487,
+      "tasa": 2.0
+    },
+    "brecha_tasa": 0.68
+  },
+  {
+    "ubigeo": "220907",
+    "departamento": "SAN MARTIN",
+    "provincia": "SAN MARTIN",
+    "distrito": "MORALES",
+    "primaria": {
+      "desertor": 145,
+      "denominador": 10026,
+      "tasa": 1.45
+    },
+    "secundaria": {
+      "desertor": 166,
+      "denominador": 7658,
+      "tasa": 2.17
+    },
+    "brecha_tasa": 0.72
+  },
+  {
+    "ubigeo": "220904",
+    "departamento": "SAN MARTIN",
+    "provincia": "SAN MARTIN",
+    "distrito": "BANDA DE SHILCAYO",
+    "primaria": {
+      "desertor": 133,
+      "denominador": 8355,
+      "tasa": 1.59
+    },
+    "secundaria": {
+      "desertor": 148,
+      "denominador": 6382,
+      "tasa": 2.32
+    },
+    "brecha_tasa": 0.73
+  },
+  {
+    "ubigeo": "220101",
+    "departamento": "SAN MARTIN",
+    "provincia": "MOYOBAMBA",
+    "distrito": "MOYOBAMBA",
+    "primaria": {
+      "desertor": 353,
+      "denominador": 21723,
+      "tasa": 1.63
+    },
+    "secundaria": {
+      "desertor": 399,
+      "denominador": 16592,
+      "tasa": 2.4
+    },
+    "brecha_tasa": 0.77
+  },
+  {
+    "ubigeo": "220105",
+    "departamento": "SAN MARTIN",
+    "provincia": "MOYOBAMBA",
+    "distrito": "SORITOR",
+    "primaria": {
+      "desertor": 250,
+      "denominador": 11697,
+      "tasa": 2.14
+    },
+    "secundaria": {
+      "desertor": 279,
+      "denominador": 8934,
+      "tasa": 3.12
+    },
+    "brecha_tasa": 0.98
+  },
+  {
+    "ubigeo": "220201",
+    "departamento": "SAN MARTIN",
+    "provincia": "BELLAVISTA",
+    "distrito": "BELLAVISTA",
+    "primaria": {
+      "desertor": 445,
+      "denominador": 20052,
+      "tasa": 2.22
+    },
+    "secundaria": {
+      "desertor": 504,
+      "denominador": 15316,
+      "tasa": 3.29
+    },
+    "brecha_tasa": 1.07
+  },
+  {
+    "ubigeo": "220203",
+    "departamento": "SAN MARTIN",
+    "provincia": "BELLAVISTA",
+    "distrito": "HUALLAGA",
+    "primaria": {
+      "desertor": 332,
+      "denominador": 13368,
+      "tasa": 2.48
+    },
+    "secundaria": {
+      "desertor": 368,
+      "denominador": 10211,
+      "tasa": 3.6
+    },
+    "brecha_tasa": 1.12
+  },
+  {
+    "ubigeo": "221001",
+    "departamento": "SAN MARTIN",
+    "provincia": "TOCACHE",
+    "distrito": "TOCACHE",
+    "primaria": {
+      "desertor": 480,
+      "denominador": 20052,
+      "tasa": 2.39
+    },
+    "secundaria": {
+      "desertor": 528,
+      "denominador": 15316,
+      "tasa": 3.45
+    },
+    "brecha_tasa": 1.06
+  },
+  {
+    "ubigeo": "221004",
+    "departamento": "SAN MARTIN",
+    "provincia": "TOCACHE",
+    "distrito": "UCHIZA",
+    "primaria": {
+      "desertor": 354,
+      "denominador": 13368,
+      "tasa": 2.65
+    },
+    "secundaria": {
+      "desertor": 393,
+      "denominador": 10211,
+      "tasa": 3.85
+    },
+    "brecha_tasa": 1.2
+  },
+  {
+    "ubigeo": "110101",
+    "departamento": "ICA",
+    "provincia": "ICA",
+    "distrito": "ICA",
+    "primaria": {
+      "desertor": 128,
+      "denominador": 14259,
+      "tasa": 0.9
+    },
+    "secundaria": {
+      "desertor": 148,
+      "denominador": 10891,
+      "tasa": 1.36
+    },
+    "brecha_tasa": 0.46
+  },
+  {
+    "ubigeo": "110108",
+    "departamento": "ICA",
+    "provincia": "ICA",
+    "distrito": "PARCONA",
+    "primaria": {
+      "desertor": 119,
+      "denominador": 10694,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 134,
+      "denominador": 8169,
+      "tasa": 1.64
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "110111",
+    "departamento": "ICA",
+    "provincia": "ICA",
+    "distrito": "SUBTANJALLA",
+    "primaria": {
+      "desertor": 123,
+      "denominador": 10694,
+      "tasa": 1.15
+    },
+    "secundaria": {
+      "desertor": 138,
+      "denominador": 8169,
+      "tasa": 1.69
+    },
+    "brecha_tasa": 0.54
+  },
+  {
+    "ubigeo": "110201",
+    "departamento": "ICA",
+    "provincia": "CHINCHA",
+    "distrito": "CHINCHA ALTA",
+    "primaria": {
+      "desertor": 228,
+      "denominador": 21389,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 259,
+      "denominador": 16337,
+      "tasa": 1.59
+    },
+    "brecha_tasa": 0.52
+  },
+  {
+    "ubigeo": "110207",
+    "departamento": "ICA",
+    "provincia": "CHINCHA",
+    "distrito": "PUEBLO NUEVO",
+    "primaria": {
+      "desertor": 177,
+      "denominador": 14259,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 196,
+      "denominador": 10891,
+      "tasa": 1.8
+    },
+    "brecha_tasa": 0.56
+  },
+  {
+    "ubigeo": "110501",
+    "departamento": "ICA",
+    "provincia": "PISCO",
+    "distrito": "PISCO",
+    "primaria": {
+      "desertor": 238,
+      "denominador": 23171,
+      "tasa": 1.03
+    },
+    "secundaria": {
+      "desertor": 269,
+      "denominador": 17699,
+      "tasa": 1.52
+    },
+    "brecha_tasa": 0.49
+  },
+  {
+    "ubigeo": "110507",
+    "departamento": "ICA",
+    "provincia": "PISCO",
+    "distrito": "SAN ANDRES",
+    "primaria": {
+      "desertor": 150,
+      "denominador": 12477,
+      "tasa": 1.2
+    },
+    "secundaria": {
+      "desertor": 168,
+      "denominador": 9530,
+      "tasa": 1.76
+    },
+    "brecha_tasa": 0.56
+  },
+  {
+    "ubigeo": "110301",
+    "departamento": "ICA",
+    "provincia": "NAZCA",
+    "distrito": "NAZCA",
+    "primaria": {
+      "desertor": 248,
+      "denominador": 23171,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 284,
+      "denominador": 17699,
+      "tasa": 1.6
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "110304",
+    "departamento": "ICA",
+    "provincia": "NAZCA",
+    "distrito": "MARCONA",
+    "primaria": {
+      "desertor": 117,
+      "denominador": 12477,
+      "tasa": 0.94
+    },
+    "secundaria": {
+      "desertor": 138,
+      "denominador": 9530,
+      "tasa": 1.45
+    },
+    "brecha_tasa": 0.51
+  },
+  {
+    "ubigeo": "050101",
+    "departamento": "AYACUCHO",
+    "provincia": "HUAMANGA",
+    "distrito": "AYACUCHO",
+    "primaria": {
+      "desertor": 119,
+      "denominador": 10694,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 134,
+      "denominador": 8169,
+      "tasa": 1.64
+    },
+    "brecha_tasa": 0.53
+  },
+  {
+    "ubigeo": "050111",
+    "departamento": "AYACUCHO",
+    "provincia": "HUAMANGA",
+    "distrito": "SAN JUAN BAUTISTA",
+    "primaria": {
+      "desertor": 113,
+      "denominador": 8021,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 125,
+      "denominador": 6126,
+      "tasa": 2.04
+    },
+    "brecha_tasa": 0.63
+  },
+  {
+    "ubigeo": "050106",
+    "departamento": "AYACUCHO",
+    "provincia": "HUAMANGA",
+    "distrito": "JESUS NAZARENO",
+    "primaria": {
+      "desertor": 106,
+      "denominador": 8021,
+      "tasa": 1.32
+    },
+    "secundaria": {
+      "desertor": 120,
+      "denominador": 6126,
+      "tasa": 1.96
+    },
+    "brecha_tasa": 0.64
+  },
+  {
+    "ubigeo": "050401",
+    "departamento": "AYACUCHO",
+    "provincia": "HUANTA",
+    "distrito": "HUANTA",
+    "primaria": {
+      "desertor": 261,
+      "denominador": 16042,
+      "tasa": 1.63
+    },
+    "secundaria": {
+      "desertor": 290,
+      "denominador": 12253,
+      "tasa": 2.37
+    },
+    "brecha_tasa": 0.74
+  },
+  {
+    "ubigeo": "050407",
+    "departamento": "AYACUCHO",
+    "provincia": "HUANTA",
+    "distrito": "LURICOCHA",
+    "primaria": {
+      "desertor": 210,
+      "denominador": 10694,
+      "tasa": 1.96
+    },
+    "secundaria": {
+      "desertor": 229,
+      "denominador": 8169,
+      "tasa": 2.8
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "050501",
+    "departamento": "AYACUCHO",
+    "provincia": "LA MAR",
+    "distrito": "SAN MIGUEL",
+    "primaria": {
+      "desertor": 274,
+      "denominador": 13368,
+      "tasa": 2.05
+    },
+    "secundaria": {
+      "desertor": 303,
+      "denominador": 10211,
+      "tasa": 2.97
+    },
+    "brecha_tasa": 0.92
+  },
+  {
+    "ubigeo": "050503",
+    "departamento": "AYACUCHO",
+    "provincia": "LA MAR",
+    "distrito": "ANCO",
+    "primaria": {
+      "desertor": 315,
+      "denominador": 13368,
+      "tasa": 2.36
+    },
+    "secundaria": {
+      "desertor": 344,
+      "denominador": 10211,
+      "tasa": 3.37
+    },
+    "brecha_tasa": 1.01
+  },
+  {
+    "ubigeo": "070101",
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CALLAO",
+    "primaria": {
+      "desertor": 175,
+      "denominador": 15150,
+      "tasa": 1.16
+    },
+    "secundaria": {
+      "desertor": 200,
+      "denominador": 11572,
+      "tasa": 1.73
+    },
+    "brecha_tasa": 0.57
+  },
+  {
+    "ubigeo": "070106",
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "primaria": {
+      "desertor": 164,
+      "denominador": 13257,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 187,
+      "denominador": 10126,
+      "tasa": 1.85
+    },
+    "brecha_tasa": 0.61
+  },
+  {
+    "ubigeo": "070107",
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "MI PERU",
+    "primaria": {
+      "desertor": 75,
+      "denominador": 5681,
+      "tasa": 1.32
+    },
+    "secundaria": {
+      "desertor": 83,
+      "denominador": 4340,
+      "tasa": 1.91
+    },
+    "brecha_tasa": 0.59
+  },
+  {
+    "ubigeo": "070102",
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "BELLAVISTA",
+    "primaria": {
+      "desertor": 15,
+      "denominador": 1894,
+      "tasa": 0.79
+    },
+    "secundaria": {
+      "desertor": 17,
+      "denominador": 1447,
+      "tasa": 1.17
+    },
+    "brecha_tasa": 0.38
+  },
+  {
+    "ubigeo": "070104",
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "primaria": {
+      "desertor": 15,
+      "denominador": 1894,
+      "tasa": 0.79
+    },
+    "secundaria": {
+      "desertor": 18,
+      "denominador": 1447,
+      "tasa": 1.24
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "010101",
+    "departamento": "AMAZONAS",
+    "provincia": "CHACHAPOYAS",
+    "distrito": "CHACHAPOYAS",
+    "primaria": {
+      "desertor": 99,
+      "denominador": 8021,
+      "tasa": 1.23
+    },
+    "secundaria": {
+      "desertor": 115,
+      "denominador": 6126,
+      "tasa": 1.88
+    },
+    "brecha_tasa": 0.65
+  },
+  {
+    "ubigeo": "010111",
+    "departamento": "AMAZONAS",
+    "provincia": "CHACHAPOYAS",
+    "distrito": "LEIMEBAMBA",
+    "primaria": {
+      "desertor": 74,
+      "denominador": 3565,
+      "tasa": 2.08
+    },
+    "secundaria": {
+      "desertor": 84,
+      "denominador": 2723,
+      "tasa": 3.08
+    },
+    "brecha_tasa": 1.0
+  },
+  {
+    "ubigeo": "010110",
+    "departamento": "AMAZONAS",
+    "provincia": "CHACHAPOYAS",
+    "distrito": "LA JALCA",
+    "primaria": {
+      "desertor": 80,
+      "denominador": 3565,
+      "tasa": 2.24
+    },
+    "secundaria": {
+      "desertor": 90,
+      "denominador": 2723,
+      "tasa": 3.31
+    },
+    "brecha_tasa": 1.07
+  },
+  {
+    "ubigeo": "010113",
+    "departamento": "AMAZONAS",
+    "provincia": "CHACHAPOYAS",
+    "distrito": "MAGDALENA",
+    "primaria": {
+      "desertor": 57,
+      "denominador": 2674,
+      "tasa": 2.13
+    },
+    "secundaria": {
+      "desertor": 66,
+      "denominador": 2042,
+      "tasa": 3.23
+    },
+    "brecha_tasa": 1.1
+  },
+  {
+    "ubigeo": "010201",
+    "departamento": "AMAZONAS",
+    "provincia": "BAGUA",
+    "distrito": "BAGUA",
+    "primaria": {
+      "desertor": 201,
+      "denominador": 9803,
+      "tasa": 2.05
+    },
+    "secundaria": {
+      "desertor": 234,
+      "denominador": 7488,
+      "tasa": 3.12
+    },
+    "brecha_tasa": 1.07
+  },
+  {
+    "ubigeo": "010202",
+    "departamento": "AMAZONAS",
+    "provincia": "BAGUA",
+    "distrito": "ARAMANGO",
+    "primaria": {
+      "desertor": 130,
+      "denominador": 4456,
+      "tasa": 2.92
+    },
+    "secundaria": {
+      "desertor": 148,
+      "denominador": 3404,
+      "tasa": 4.35
+    },
+    "brecha_tasa": 1.43
+  },
+  {
+    "ubigeo": "010205",
+    "departamento": "AMAZONAS",
+    "provincia": "BAGUA",
+    "distrito": "IMAZA",
+    "primaria": {
+      "desertor": 131,
+      "denominador": 3565,
+      "tasa": 3.67
+    },
+    "secundaria": {
+      "desertor": 151,
+      "denominador": 2723,
+      "tasa": 5.55
+    },
+    "brecha_tasa": 1.88
+  },
+  {
+    "ubigeo": "010701",
+    "departamento": "AMAZONAS",
+    "provincia": "UTCUBAMBA",
+    "distrito": "BAGUA GRANDE",
+    "primaria": {
+      "desertor": 206,
+      "denominador": 10694,
+      "tasa": 1.93
+    },
+    "secundaria": {
+      "desertor": 239,
+      "denominador": 8169,
+      "tasa": 2.93
+    },
+    "brecha_tasa": 1.0
+  },
+  {
+    "ubigeo": "010703",
+    "departamento": "AMAZONAS",
+    "provincia": "UTCUBAMBA",
+    "distrito": "CUMBA",
+    "primaria": {
+      "desertor": 195,
+      "denominador": 7130,
+      "tasa": 2.73
+    },
+    "secundaria": {
+      "desertor": 223,
+      "denominador": 5446,
+      "tasa": 4.09
+    },
+    "brecha_tasa": 1.36
+  },
+  {
+    "ubigeo": "010401",
+    "departamento": "AMAZONAS",
+    "provincia": "CONDORCANQUI",
+    "distrito": "NIEVA",
+    "primaria": {
+      "desertor": 366,
+      "denominador": 8912,
+      "tasa": 4.11
+    },
+    "secundaria": {
+      "desertor": 426,
+      "denominador": 6807,
+      "tasa": 6.26
+    },
+    "brecha_tasa": 2.15
+  },
+  {
+    "ubigeo": "010402",
+    "departamento": "AMAZONAS",
+    "provincia": "CONDORCANQUI",
+    "distrito": "EL CENEPA",
+    "primaria": {
+      "desertor": 247,
+      "denominador": 5347,
+      "tasa": 4.62
+    },
+    "secundaria": {
+      "desertor": 285,
+      "denominador": 4084,
+      "tasa": 6.98
+    },
+    "brecha_tasa": 2.36
+  },
+  {
+    "ubigeo": "010403",
+    "departamento": "AMAZONAS",
+    "provincia": "CONDORCANQUI",
+    "distrito": "RIO SANTIAGO",
+    "primaria": {
+      "desertor": 171,
+      "denominador": 3565,
+      "tasa": 4.8
+    },
+    "secundaria": {
+      "desertor": 199,
+      "denominador": 2723,
+      "tasa": 7.31
+    },
+    "brecha_tasa": 2.51
+  },
+  {
+    "ubigeo": "010501",
+    "departamento": "AMAZONAS",
+    "provincia": "LUYA",
+    "distrito": "LAMUD",
+    "primaria": {
+      "desertor": 192,
+      "denominador": 10694,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 223,
+      "denominador": 8169,
+      "tasa": 2.73
+    },
+    "brecha_tasa": 0.93
+  },
+  {
+    "ubigeo": "010515",
+    "departamento": "AMAZONAS",
+    "provincia": "LUYA",
+    "distrito": "OCALLI",
+    "primaria": {
+      "desertor": 177,
+      "denominador": 7130,
+      "tasa": 2.48
+    },
+    "secundaria": {
+      "desertor": 201,
+      "denominador": 5446,
+      "tasa": 3.69
+    },
+    "brecha_tasa": 1.21
+  },
+  {
+    "ubigeo": "010301",
+    "departamento": "AMAZONAS",
+    "provincia": "BONGARA",
+    "distrito": "JUMBILLA",
+    "primaria": {
+      "desertor": 156,
+      "denominador": 8912,
+      "tasa": 1.75
+    },
+    "secundaria": {
+      "desertor": 180,
+      "denominador": 6807,
+      "tasa": 2.64
+    },
+    "brecha_tasa": 0.89
+  },
+  {
+    "ubigeo": "010304",
+    "departamento": "AMAZONAS",
+    "provincia": "BONGARA",
+    "distrito": "FLORIDA",
+    "primaria": {
+      "desertor": 179,
+      "denominador": 8912,
+      "tasa": 2.01
+    },
+    "secundaria": {
+      "desertor": 204,
+      "denominador": 6807,
+      "tasa": 3.0
+    },
+    "brecha_tasa": 0.99
+  },
+  {
+    "ubigeo": "010601",
+    "departamento": "AMAZONAS",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "distrito": "SAN NICOLAS",
+    "primaria": {
+      "desertor": 192,
+      "denominador": 10694,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 220,
+      "denominador": 8169,
+      "tasa": 2.69
+    },
+    "brecha_tasa": 0.89
+  },
+  {
+    "ubigeo": "010606",
+    "departamento": "AMAZONAS",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "distrito": "LONGAR",
+    "primaria": {
+      "desertor": 150,
+      "denominador": 7130,
+      "tasa": 2.1
+    },
+    "secundaria": {
+      "desertor": 170,
+      "denominador": 5446,
+      "tasa": 3.12
+    },
+    "brecha_tasa": 1.02
+  },
+  {
+    "ubigeo": "250101",
+    "departamento": "UCAYALI",
+    "provincia": "CORONEL PORTILLO",
+    "distrito": "CALLERIA (PUCALLPA)",
+    "primaria": {
+      "desertor": 200,
+      "denominador": 9358,
+      "tasa": 2.14
+    },
+    "secundaria": {
+      "desertor": 241,
+      "denominador": 7147,
+      "tasa": 3.37
+    },
+    "brecha_tasa": 1.23
+  },
+  {
+    "ubigeo": "250107",
+    "departamento": "UCAYALI",
+    "provincia": "CORONEL PORTILLO",
+    "distrito": "YARINACOCHA",
+    "primaria": {
+      "desertor": 174,
+      "denominador": 7018,
+      "tasa": 2.48
+    },
+    "secundaria": {
+      "desertor": 206,
+      "denominador": 5361,
+      "tasa": 3.84
+    },
+    "brecha_tasa": 1.36
+  },
+  {
+    "ubigeo": "250105",
+    "departamento": "UCAYALI",
+    "provincia": "CORONEL PORTILLO",
+    "distrito": "MANANTAY",
+    "primaria": {
+      "desertor": 186,
+      "denominador": 7018,
+      "tasa": 2.65
+    },
+    "secundaria": {
+      "desertor": 219,
+      "denominador": 5361,
+      "tasa": 4.09
+    },
+    "brecha_tasa": 1.44
+  },
+  {
+    "ubigeo": "250301",
+    "departamento": "UCAYALI",
+    "provincia": "PADRE ABAD",
+    "distrito": "PADRE ABAD (AGUAYTIA)",
+    "primaria": {
+      "desertor": 408,
+      "denominador": 14036,
+      "tasa": 2.91
+    },
+    "secundaria": {
+      "desertor": 481,
+      "denominador": 10721,
+      "tasa": 4.49
+    },
+    "brecha_tasa": 1.58
+  },
+  {
+    "ubigeo": "250303",
+    "departamento": "UCAYALI",
+    "provincia": "PADRE ABAD",
+    "distrito": "IRAZOLA",
+    "primaria": {
+      "desertor": 312,
+      "denominador": 9358,
+      "tasa": 3.33
+    },
+    "secundaria": {
+      "desertor": 361,
+      "denominador": 7147,
+      "tasa": 5.05
+    },
+    "brecha_tasa": 1.72
+  },
+  {
+    "ubigeo": "250201",
+    "departamento": "UCAYALI",
+    "provincia": "ATALAYA",
+    "distrito": "RAYMONDI (ATALAYA)",
+    "primaria": {
+      "desertor": 540,
+      "denominador": 14036,
+      "tasa": 3.85
+    },
+    "secundaria": {
+      "desertor": 636,
+      "denominador": 10721,
+      "tasa": 5.93
+    },
+    "brecha_tasa": 2.08
+  },
+  {
+    "ubigeo": "250203",
+    "departamento": "UCAYALI",
+    "provincia": "ATALAYA",
+    "distrito": "TAHUANIA",
+    "primaria": {
+      "desertor": 416,
+      "denominador": 9358,
+      "tasa": 4.45
+    },
+    "secundaria": {
+      "desertor": 487,
+      "denominador": 7147,
+      "tasa": 6.81
+    },
+    "brecha_tasa": 2.36
+  },
+  {
+    "ubigeo": "250401",
+    "departamento": "UCAYALI",
+    "provincia": "PURUS",
+    "distrito": "PURUS",
+    "primaria": {
+      "desertor": 960,
+      "denominador": 23394,
+      "tasa": 4.1
+    },
+    "secundaria": {
+      "desertor": 1132,
+      "denominador": 17869,
+      "tasa": 6.33
+    },
+    "brecha_tasa": 2.23
+  },
+  {
+    "ubigeo": "090101",
+    "departamento": "HUANCAVELICA",
+    "provincia": "HUANCAVELICA",
+    "distrito": "HUANCAVELICA",
+    "primaria": {
+      "desertor": 99,
+      "denominador": 8912,
+      "tasa": 1.11
+    },
+    "secundaria": {
+      "desertor": 112,
+      "denominador": 6807,
+      "tasa": 1.65
+    },
+    "brecha_tasa": 0.54
+  },
+  {
+    "ubigeo": "090102",
+    "departamento": "HUANCAVELICA",
+    "provincia": "HUANCAVELICA",
+    "distrito": "ACOBAMBILLA",
+    "primaria": {
+      "desertor": 76,
+      "denominador": 4456,
+      "tasa": 1.71
+    },
+    "secundaria": {
+      "desertor": 85,
+      "denominador": 3404,
+      "tasa": 2.5
+    },
+    "brecha_tasa": 0.79
+  },
+  {
+    "ubigeo": "090103",
+    "departamento": "HUANCAVELICA",
+    "provincia": "HUANCAVELICA",
+    "distrito": "ASCENSION",
+    "primaria": {
+      "desertor": 56,
+      "denominador": 4456,
+      "tasa": 1.26
+    },
+    "secundaria": {
+      "desertor": 62,
+      "denominador": 3404,
+      "tasa": 1.82
+    },
+    "brecha_tasa": 0.56
+  },
+  {
+    "ubigeo": "090701",
+    "departamento": "HUANCAVELICA",
+    "provincia": "TAYACAJA",
+    "distrito": "PAMPAS",
+    "primaria": {
+      "desertor": 160,
+      "denominador": 10694,
+      "tasa": 1.5
+    },
+    "secundaria": {
+      "desertor": 177,
+      "denominador": 8169,
+      "tasa": 2.17
+    },
+    "brecha_tasa": 0.67
+  },
+  {
+    "ubigeo": "090703",
+    "departamento": "HUANCAVELICA",
+    "provincia": "TAYACAJA",
+    "distrito": "AHUAYCHA",
+    "primaria": {
+      "desertor": 128,
+      "denominador": 7130,
+      "tasa": 1.8
+    },
+    "secundaria": {
+      "desertor": 140,
+      "denominador": 5446,
+      "tasa": 2.57
+    },
+    "brecha_tasa": 0.77
+  },
+  {
+    "ubigeo": "090301",
+    "departamento": "HUANCAVELICA",
+    "provincia": "ANGARAES",
+    "distrito": "LIRCAY",
+    "primaria": {
+      "desertor": 183,
+      "denominador": 11586,
+      "tasa": 1.58
+    },
+    "secundaria": {
+      "desertor": 202,
+      "denominador": 8849,
+      "tasa": 2.28
+    },
+    "brecha_tasa": 0.7
+  },
+  {
+    "ubigeo": "090302",
+    "departamento": "HUANCAVELICA",
+    "provincia": "ANGARAES",
+    "distrito": "ANCHONGA",
+    "primaria": {
+      "desertor": 120,
+      "denominador": 6238,
+      "tasa": 1.92
+    },
+    "secundaria": {
+      "desertor": 132,
+      "denominador": 4765,
+      "tasa": 2.77
+    },
+    "brecha_tasa": 0.85
+  },
+  {
+    "ubigeo": "030101",
+    "departamento": "APURIMAC",
+    "provincia": "ABANCAY",
+    "distrito": "ABANCAY",
+    "primaria": {
+      "desertor": 107,
+      "denominador": 10026,
+      "tasa": 1.07
+    },
+    "secundaria": {
+      "desertor": 119,
+      "denominador": 7658,
+      "tasa": 1.55
+    },
+    "brecha_tasa": 0.48
+  },
+  {
+    "ubigeo": "030109",
+    "departamento": "APURIMAC",
+    "provincia": "ABANCAY",
+    "distrito": "TAMBURCO",
+    "primaria": {
+      "desertor": 85,
+      "denominador": 6684,
+      "tasa": 1.27
+    },
+    "secundaria": {
+      "desertor": 94,
+      "denominador": 5105,
+      "tasa": 1.84
+    },
+    "brecha_tasa": 0.57
+  },
+  {
+    "ubigeo": "030201",
+    "departamento": "APURIMAC",
+    "provincia": "ANDAHUAYLAS",
+    "distrito": "ANDAHUAYLAS",
+    "primaria": {
+      "desertor": 130,
+      "denominador": 9190,
+      "tasa": 1.41
+    },
+    "secundaria": {
+      "desertor": 144,
+      "denominador": 7020,
+      "tasa": 2.05
+    },
+    "brecha_tasa": 0.64
+  },
+  {
+    "ubigeo": "030214",
+    "departamento": "APURIMAC",
+    "provincia": "ANDAHUAYLAS",
+    "distrito": "SAN JERONIMO",
+    "primaria": {
+      "desertor": 64,
+      "denominador": 4177,
+      "tasa": 1.53
+    },
+    "secundaria": {
+      "desertor": 71,
+      "denominador": 3191,
+      "tasa": 2.23
+    },
+    "brecha_tasa": 0.7
+  },
+  {
+    "ubigeo": "030217",
+    "departamento": "APURIMAC",
+    "provincia": "ANDAHUAYLAS",
+    "distrito": "TALAVERA",
+    "primaria": {
+      "desertor": 50,
+      "denominador": 3342,
+      "tasa": 1.5
+    },
+    "secundaria": {
+      "desertor": 55,
+      "denominador": 2553,
+      "tasa": 2.15
+    },
+    "brecha_tasa": 0.65
+  },
+  {
+    "ubigeo": "030601",
+    "departamento": "APURIMAC",
+    "provincia": "CHINCHEROS",
+    "distrito": "CHINCHEROS",
+    "primaria": {
+      "desertor": 162,
+      "denominador": 10026,
+      "tasa": 1.62
+    },
+    "secundaria": {
+      "desertor": 178,
+      "denominador": 7658,
+      "tasa": 2.32
+    },
+    "brecha_tasa": 0.7
+  },
+  {
+    "ubigeo": "030605",
+    "departamento": "APURIMAC",
+    "provincia": "CHINCHEROS",
+    "distrito": "ONGOY",
+    "primaria": {
+      "desertor": 126,
+      "denominador": 6684,
+      "tasa": 1.89
+    },
+    "secundaria": {
+      "desertor": 140,
+      "denominador": 5105,
+      "tasa": 2.74
+    },
+    "brecha_tasa": 0.85
+  },
+  {
+    "ubigeo": "230101",
+    "departamento": "TACNA",
+    "provincia": "TACNA",
+    "distrito": "TACNA",
+    "primaria": {
+      "desertor": 38,
+      "denominador": 5347,
+      "tasa": 0.71
+    },
+    "secundaria": {
+      "desertor": 46,
+      "denominador": 4084,
+      "tasa": 1.13
+    },
+    "brecha_tasa": 0.42
+  },
+  {
+    "ubigeo": "230104",
+    "departamento": "TACNA",
+    "provincia": "TACNA",
+    "distrito": "CORONEL GREGORIO ALBARRACIN",
+    "primaria": {
+      "desertor": 42,
+      "denominador": 4679,
+      "tasa": 0.9
+    },
+    "secundaria": {
+      "desertor": 49,
+      "denominador": 3574,
+      "tasa": 1.37
+    },
+    "brecha_tasa": 0.47
+  },
+  {
+    "ubigeo": "230102",
+    "departamento": "TACNA",
+    "provincia": "TACNA",
+    "distrito": "ALTO DE LA ALIANZA",
+    "primaria": {
+      "desertor": 19,
+      "denominador": 2005,
+      "tasa": 0.95
+    },
+    "secundaria": {
+      "desertor": 22,
+      "denominador": 1532,
+      "tasa": 1.44
+    },
+    "brecha_tasa": 0.49
+  },
+  {
+    "ubigeo": "230105",
+    "departamento": "TACNA",
+    "provincia": "TACNA",
+    "distrito": "CIUDAD NUEVA",
+    "primaria": {
+      "desertor": 13,
+      "denominador": 1337,
+      "tasa": 0.97
+    },
+    "secundaria": {
+      "desertor": 14,
+      "denominador": 1021,
+      "tasa": 1.37
+    },
+    "brecha_tasa": 0.4
+  },
+  {
+    "ubigeo": "230301",
+    "departamento": "TACNA",
+    "provincia": "JORGE BASADRE",
+    "distrito": "ILABAYA",
+    "primaria": {
+      "desertor": 62,
+      "denominador": 8021,
+      "tasa": 0.77
+    },
+    "secundaria": {
+      "desertor": 71,
+      "denominador": 6126,
+      "tasa": 1.16
+    },
+    "brecha_tasa": 0.39
+  },
+  {
+    "ubigeo": "230303",
+    "departamento": "TACNA",
+    "provincia": "JORGE BASADRE",
+    "distrito": "ITE",
+    "primaria": {
+      "desertor": 45,
+      "denominador": 5347,
+      "tasa": 0.84
+    },
+    "secundaria": {
+      "desertor": 52,
+      "denominador": 4084,
+      "tasa": 1.27
+    },
+    "brecha_tasa": 0.43
+  },
+  {
+    "ubigeo": "190101",
+    "departamento": "PASCO",
+    "provincia": "PASCO",
+    "distrito": "CHAUPIMARCA (CERRO DE PASCO)",
+    "primaria": {
+      "desertor": 62,
+      "denominador": 5013,
+      "tasa": 1.24
+    },
+    "secundaria": {
+      "desertor": 69,
+      "denominador": 3829,
+      "tasa": 1.8
+    },
+    "brecha_tasa": 0.56
+  },
+  {
+    "ubigeo": "190113",
+    "departamento": "PASCO",
+    "provincia": "PASCO",
+    "distrito": "YANACANCHA",
+    "primaria": {
+      "desertor": 51,
+      "denominador": 3899,
+      "tasa": 1.31
+    },
+    "secundaria": {
+      "desertor": 57,
+      "denominador": 2978,
+      "tasa": 1.91
+    },
+    "brecha_tasa": 0.6
+  },
+  {
+    "ubigeo": "190110",
+    "departamento": "PASCO",
+    "provincia": "PASCO",
+    "distrito": "SIMON BOLIVAR",
+    "primaria": {
+      "desertor": 35,
+      "denominador": 2228,
+      "tasa": 1.57
+    },
+    "secundaria": {
+      "desertor": 39,
+      "denominador": 1702,
+      "tasa": 2.29
+    },
+    "brecha_tasa": 0.72
+  },
+  {
+    "ubigeo": "190301",
+    "departamento": "PASCO",
+    "provincia": "OXAPAMPA",
+    "distrito": "OXAPAMPA",
+    "primaria": {
+      "desertor": 73,
+      "denominador": 4456,
+      "tasa": 1.64
+    },
+    "secundaria": {
+      "desertor": 80,
+      "denominador": 3404,
+      "tasa": 2.35
+    },
+    "brecha_tasa": 0.71
+  },
+  {
+    "ubigeo": "190307",
+    "departamento": "PASCO",
+    "provincia": "OXAPAMPA",
+    "distrito": "VILLA RICA",
+    "primaria": {
+      "desertor": 72,
+      "denominador": 3899,
+      "tasa": 1.85
+    },
+    "secundaria": {
+      "desertor": 80,
+      "denominador": 2978,
+      "tasa": 2.69
+    },
+    "brecha_tasa": 0.84
+  },
+  {
+    "ubigeo": "190305",
+    "departamento": "PASCO",
+    "provincia": "OXAPAMPA",
+    "distrito": "POZUZO",
+    "primaria": {
+      "desertor": 49,
+      "denominador": 2785,
+      "tasa": 1.76
+    },
+    "secundaria": {
+      "desertor": 55,
+      "denominador": 2127,
+      "tasa": 2.59
+    },
+    "brecha_tasa": 0.83
+  },
+  {
+    "ubigeo": "240101",
+    "departamento": "TUMBES",
+    "provincia": "TUMBES",
+    "distrito": "TUMBES",
+    "primaria": {
+      "desertor": 80,
+      "denominador": 6016,
+      "tasa": 1.33
+    },
+    "secundaria": {
+      "desertor": 88,
+      "denominador": 4595,
+      "tasa": 1.92
+    },
+    "brecha_tasa": 0.59
+  },
+  {
+    "ubigeo": "240102",
+    "departamento": "TUMBES",
+    "provincia": "TUMBES",
+    "distrito": "CORRALES",
+    "primaria": {
+      "desertor": 38,
+      "denominador": 2506,
+      "tasa": 1.52
+    },
+    "secundaria": {
+      "desertor": 42,
+      "denominador": 1915,
+      "tasa": 2.19
+    },
+    "brecha_tasa": 0.67
+  },
+  {
+    "ubigeo": "240105",
+    "departamento": "TUMBES",
+    "provincia": "TUMBES",
+    "distrito": "SAN JUAN DE LA VIRGEN",
+    "primaria": {
+      "desertor": 25,
+      "denominador": 1504,
+      "tasa": 1.66
+    },
+    "secundaria": {
+      "desertor": 27,
+      "denominador": 1149,
+      "tasa": 2.35
+    },
+    "brecha_tasa": 0.69
+  },
+  {
+    "ubigeo": "240301",
+    "departamento": "TUMBES",
+    "provincia": "ZARUMILLA",
+    "distrito": "ZARUMILLA",
+    "primaria": {
+      "desertor": 100,
+      "denominador": 6517,
+      "tasa": 1.53
+    },
+    "secundaria": {
+      "desertor": 111,
+      "denominador": 4978,
+      "tasa": 2.23
+    },
+    "brecha_tasa": 0.7
+  },
+  {
+    "ubigeo": "240302",
+    "departamento": "TUMBES",
+    "provincia": "ZARUMILLA",
+    "distrito": "AGUAS VERDES",
+    "primaria": {
+      "desertor": 62,
+      "denominador": 3509,
+      "tasa": 1.77
+    },
+    "secundaria": {
+      "desertor": 67,
+      "denominador": 2680,
+      "tasa": 2.5
+    },
+    "brecha_tasa": 0.73
+  },
+  {
+    "ubigeo": "170101",
+    "departamento": "MADRE DE DIOS",
+    "provincia": "TAMBOPATA",
+    "distrito": "TAMBOPATA (PUERTO MALDONADO)",
+    "primaria": {
+      "desertor": 113,
+      "denominador": 5069,
+      "tasa": 2.23
+    },
+    "secundaria": {
+      "desertor": 133,
+      "denominador": 3872,
+      "tasa": 3.43
+    },
+    "brecha_tasa": 1.2
+  },
+  {
+    "ubigeo": "170102",
+    "departamento": "MADRE DE DIOS",
+    "provincia": "TAMBOPATA",
+    "distrito": "INAMBARI",
+    "primaria": {
+      "desertor": 82,
+      "denominador": 2729,
+      "tasa": 3.0
+    },
+    "secundaria": {
+      "desertor": 96,
+      "denominador": 2085,
+      "tasa": 4.6
+    },
+    "brecha_tasa": 1.6
+  },
+  {
+    "ubigeo": "170301",
+    "departamento": "MADRE DE DIOS",
+    "provincia": "TAHUAMANU",
+    "distrito": "IÑAPARI",
+    "primaria": {
+      "desertor": 128,
+      "denominador": 4679,
+      "tasa": 2.74
+    },
+    "secundaria": {
+      "desertor": 149,
+      "denominador": 3574,
+      "tasa": 4.17
+    },
+    "brecha_tasa": 1.43
+  },
+  {
+    "ubigeo": "170302",
+    "departamento": "MADRE DE DIOS",
+    "provincia": "TAHUAMANU",
+    "distrito": "IBERIA",
+    "primaria": {
+      "desertor": 91,
+      "denominador": 3119,
+      "tasa": 2.92
+    },
+    "secundaria": {
+      "desertor": 105,
+      "denominador": 2382,
+      "tasa": 4.41
+    },
+    "brecha_tasa": 1.49
+  },
+  {
+    "ubigeo": "180101",
+    "departamento": "MOQUEGUA",
+    "provincia": "MARISCAL NIETO",
+    "distrito": "MOQUEGUA",
+    "primaria": {
+      "desertor": 32,
+      "denominador": 4679,
+      "tasa": 0.68
+    },
+    "secundaria": {
+      "desertor": 38,
+      "denominador": 3574,
+      "tasa": 1.06
+    },
+    "brecha_tasa": 0.38
+  },
+  {
+    "ubigeo": "180106",
+    "departamento": "MOQUEGUA",
+    "provincia": "MARISCAL NIETO",
+    "distrito": "SAMEGUA",
+    "primaria": {
+      "desertor": 26,
+      "denominador": 3119,
+      "tasa": 0.83
+    },
+    "secundaria": {
+      "desertor": 30,
+      "denominador": 2382,
+      "tasa": 1.26
+    },
+    "brecha_tasa": 0.43
+  },
+  {
+    "ubigeo": "180201",
+    "departamento": "MOQUEGUA",
+    "provincia": "ILO",
+    "distrito": "ILO",
+    "primaria": {
+      "desertor": 42,
+      "denominador": 5459,
+      "tasa": 0.77
+    },
+    "secundaria": {
+      "desertor": 51,
+      "denominador": 4169,
+      "tasa": 1.22
+    },
+    "brecha_tasa": 0.45
+  },
+  {
+    "ubigeo": "180202",
+    "departamento": "MOQUEGUA",
+    "provincia": "ILO",
+    "distrito": "EL ALGARROBAL",
+    "primaria": {
+      "desertor": 21,
+      "denominador": 2339,
+      "tasa": 0.9
+    },
+    "secundaria": {
+      "desertor": 24,
+      "denominador": 1787,
+      "tasa": 1.34
+    },
+    "brecha_tasa": 0.44
+  }
+]

@@ -1,0 +1,75 @@
+/* ==========================================================================
+   DESERCIÓN ESCOLAR EN EL PERÚ (2023-2024) - HOJA DE ESTILOS PERIODÍSTICA
+   Paleta: Gris editorial #F8FAFC, Azul #0284C7, Carmesí #E11D48, Pizarra #0F172A
+   Tipografías: Merriweather (Serif) e Inter (Sans-serif)
+   ========================================================================== */
+
+:root {
+  --bg-main: #F8FAFC;
+  --card-surface: #FFFFFF;
+  --border-color: #E2E8F0;
+  --text-primary: #0F172A;
+  --text-muted: #475569;
+  --color-primaria: #0284C7;
+  --color-secundaria: #E11D48;
+  --color-brecha: #D97706;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: 'Merriweather', Georgia, serif;
+}
+
+/* Micro-animaciones & Glow */
+@keyframes pulseGlowBlue {
+  0%, 100% { box-shadow: 0 4px 15px -2px rgba(2, 132, 199, 0.15); }
+  50% { box-shadow: 0 4px 22px 2px rgba(2, 132, 199, 0.35); }
+}
+
+@keyframes pulseGlowRose {
+  0%, 100% { box-shadow: 0 4px 15px -2px rgba(225, 29, 72, 0.15); }
+  50% { box-shadow: 0 4px 22px 2px rgba(225, 29, 72, 0.35); }
+}
+
+.kpi-glow-primaria:hover {
+  animation: pulseGlowBlue 2s infinite;
+}
+
+.kpi-glow-secundaria:hover {
+  animation: pulseGlowRose 2s infinite;
+}
+
+/* Print PDF layout */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 1.5cm;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  .no-print, header, #chatbot, .filter-bar, button {
+    display: none !important;
+  }
+
+  .print-sheet {
+    display: block !important;
+    page-break-inside: avoid;
+  }
+}

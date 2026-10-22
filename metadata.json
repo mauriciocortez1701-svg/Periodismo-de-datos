@@ -1,0 +1,6 @@
+{
+  "name": "Deserción Escolar Perú 2023-2024 - Portal Periodístico",
+  "description": "Plataforma periodística interactiva de datos sobre la deserción escolar en educación primaria y secundaria en el Perú (2023-2024), con análisis geográfico y asistente AEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

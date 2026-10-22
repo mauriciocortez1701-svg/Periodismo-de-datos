@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="es" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Deserción Escolar en Primaria y Secundaria en el Perú (2023-2024) | Reporte Periodístico</title>
+    <meta
+      name="description"
+      content="Investigación periodística interactiva sobre la deserción escolar en el Perú (2023-2024). Analiza tasas oficiales, contrasta Primaria vs Secundaria y consulta el Asistente de Datos con datos MINEDU."
+    />
+    <meta name="keywords" content="deserción escolar Perú, educación primaria, educación secundaria, MINEDU 2023-2024, tasas de deserción, ESCALE, SIAGIE, periodismo de datos Perú" />
+    <meta name="author" content="Unidad de Datos Periodísticos" />
+
+    <!-- OpenGraph Social Cards -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Reporte de Deserción Escolar Perú 2023-2024" />
+    <meta property="og:title" content="Deserción Escolar en Primaria y Secundaria en el Perú (2023-2024)" />
+    <meta
+      property="og:description"
+      content="Investigación periodística interactiva sobre el abandono escolar en el Perú. Métricas oficiales: 64,463 desertores en Primaria (1.73%) y 72,282 en Secundaria (2.54%)."
+    />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200&auto=format&fit=crop" />
+
+    <!-- Twitter / X Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Deserción Escolar en Primaria y Secundaria en el Perú (2023-2024)" />
+    <meta
+      name="twitter:description"
+      content="Reporte interactivo de datos sobre la brecha de deserción escolar en el Perú. Análisis provincial, filtros dinámicos y Asistente AEO."
+    />
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200&auto=format&fit=crop" />
+
+    <!-- Typography: Merriweather (Editorial Serif) & Inter (Data Sans-Serif) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- AEO & GEO Structured Data (JSON-LD: Dataset & FAQPage) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "Tasa y número de desertores en Educación Primaria y Secundaria en el Perú (Periodo 2023-2024)",
+        "description": "Dataset oficial desglosado a nivel geográfico (Departamento, Provincia y Distrito) sobre matrícula total y estudiantes que interrumpieron sus estudios escolares en el Perú.",
+        "creator": {
+          "@type": "GovernmentOrganization",
+          "name": "Ministerio de Educación del Perú (MINEDU)"
+        },
+        "publisher": {
+          "@type": "NewsMediaOrganization",
+          "name": "Unidad de Periodismo de Datos Educativos"
+        },
+        "temporalCoverage": "2023/2024",
+        "spatialCoverage": {
+          "@type": "Place",
+          "name": "Perú"
+        },
+        "variableMeasured": [
+          "Número de desertores en Primaria",
+          "Matrícula total (Denominador) en Primaria",
+          "Tasa de deserción en Primaria",
+          "Número de desertores en Secundaria",
+          "Matrícula total (Denominador) en Secundaria",
+          "Tasa de deserción en Secundaria"
+        ],
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "/desercion_data.json"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "text/csv",
+            "contentUrl": "/Tasa_y_número_de_desertores_en_Educación_Primaria_2023-2024.csv"
+          },
+          {
+            "@type": "DataDownload",
+            "encodingFormat": "text/csv",
+            "contentUrl": "/Tasa_y_número_de_desertores_en_Educación_Secundaria_2023-2024.csv"
+          }
+        ]
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuál fue la tasa nacional de deserción escolar en el Perú durante el periodo 2023-2024?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Durante el periodo 2023-2024, la tasa nacional de deserción en Educación Primaria fue del 1.73% (64,463 desertores sobre 3,721,852 matriculados) y en Educación Secundaria ascendió al 2.54% (72,282 desertores sobre 2,842,831 matriculados), evidenciando un incremento de brecha de riesgo de +0.81 puntos porcentuales."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Por qué aumenta el riesgo de deserción en Educación Secundaria frente a Primaria?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Al transitar a la Secundaria, la vulnerabilidad se amplifica por factores económicos (incorporación temprana al trabajo informal), distancias geográficas hacia colegios con nivel secundario en zonas rurales, costos de transporte y responsabilidades de cuidado doméstico o embarazo adolescente, elevando la tasa a 2.54% a nivel nacional."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo se calcula la tasa agregada cuando se filtran departamentos o provincias?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Siguiendo la metodología oficial de rigor estadístico, la tasa agregada se calcula estrictamente sumando el total absoluto de desertores dividido entre la suma total de denominadores multiplicado por 100 ((Suma desertores / Suma denominadores) * 100), sin realizar promedios simples de tasas distritales."
+            }
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body class="bg-[#F8FAFC] text-[#0F172A] font-sans antialiased selection:bg-sky-200 selection:text-sky-900 min-h-screen">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
